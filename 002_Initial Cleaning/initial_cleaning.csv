@@ -1,0 +1,811 @@
+ID,Gender,Location,E-Paylater User Status,Educational Background,Year of Birth,Job Status,Monthly Income,Online Shopping Expenditure Percentage,Impulsive Buying Behavior Score,Promotion Score,Social Influence Score,Happiness Score,Self Control Score,Normative Evaluation Score
+1,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1997,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.5,3.0,1.6666666666666667,3.5,4.0,3.0
+2,Male,DKI Jakarta,e-paylater user,Until Senior High School,2002,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,1.75,3.25,2.0,4.0,3.4,4.8
+3,Male,West Sumatera,Non e-paylater user,Until Senior High School,2002,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,3.0,3.0,3.1666666666666665,4.0,2.8,3.0
+4,Female,West Sumatera,e-paylater user,Bachelor/Diploma IV,2002,Students,"Less than Rp 1,000,000",Less than 20%,4.0,4.0,4.0,4.0,2.4,1.2
+5,Male,West Sumatera,e-paylater user,Bachelor/Diploma IV,2002,Working,"More than Rp 10,000,000",Less than 20%,1.0,2.0,1.8333333333333333,3.25,3.2,2.8
+6,Male,West Sumatera,e-paylater user,Until Senior High School,2000,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,4.0,3.25,4.0,3.5,2.8,3.8
+7,Female,West Sumatera,Non e-paylater user,Until Senior High School,2002,Students,"Less than Rp 1,000,000",Less than 20%,3.0,1.0,1.0,5.0,3.4,5.0
+8,Female,West Sumatera,Non e-paylater user,Until Senior High School,2002,Students,"Less than Rp 1,000,000",21% - 40%,1.75,1.0,1.0,5.0,2.4,5.0
+9,Female,West Sumatera,e-paylater user,Bachelor/Diploma IV,2001,Entrepreneur,"More than Rp 10,000,000",Less than 20%,2.0,2.0,2.1666666666666665,2.25,4.4,4.6
+10,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2002,Working,"More than Rp 10,000,000",Less than 20%,3.0,2.0,3.0,3.0,3.4,3.0
+11,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2003,Working,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,1.25,2.0,2.0,3.0,4.4,3.4
+12,Female,West Sumatera,Non e-paylater user,Until Senior High School,2002,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,4.0,4.0,3.8333333333333335,2.0,2.2,3.6
+13,Male,West Sumatera,Non e-paylater user,Post Graduate,2001,Working,"More than Rp 10,000,000",Less than 20%,3.5,1.75,2.0,3.25,4.0,3.2
+14,Male,DKI Jakarta,Non e-paylater user,Post Graduate,1999,Entrepreneur,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.25,2.0,3.0,3.0,4.6,5.0
+15,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2002,Students,"Less than Rp 1,000,000",Less than 20%,2.5,2.25,2.3333333333333335,3.25,3.4,2.6
+16,Male,West Sumatera,Non e-paylater user,Post Graduate,2000,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,4.0,2.0,2.1666666666666665,3.0,3.2,3.8
+17,Male,West Sumatera,e-paylater user,"Diploma I, II, III",2002,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,3.25,4.0,3.0,3.25,3.0,3.2
+18,Female,West Sumatera,e-paylater user,"Diploma I, II, III",2002,Working,"Rp 5,000,001 - Rp 7,500,000",21% - 40%,3.5,3.75,3.8333333333333335,3.5,3.0,3.6
+19,Male,West Java,e-paylater user,Bachelor/Diploma IV,1978,Entrepreneur,"More than Rp 10,000,000",21% - 40%,4.25,2.0,3.5,2.25,2.0,3.4
+20,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1980,Students,"Less than Rp 1,000,000",Less than 20%,3.0,5.0,3.3333333333333335,4.0,4.2,4.8
+21,Male,North Sumatera,Non e-paylater user,Until Senior High School,1999,Students,"Less than Rp 1,000,000",21% - 40%,3.75,4.25,4.666666666666667,4.0,2.0,3.6
+22,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2002,Working,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.0,2.0,2.0,2.0,3.2,3.0
+23,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1999,Working,"More than Rp 10,000,000",Less than 20%,2.25,1.0,1.0,2.5,2.6,3.8
+24,Female,West Sumatera,e-paylater user,Until Senior High School,1978,Students,"Less than Rp 1,000,000",21% - 40%,2.75,3.75,3.1666666666666665,4.0,2.8,3.0
+25,Female,West Sumatera,Non e-paylater user,Until Senior High School,1998,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.0,3.0,2.0,4.0,3.6,3.6
+26,Male,DKI Jakarta,e-paylater user,"Diploma I, II, III",1991,Working,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,3.75,3.75,4.333333333333333,3.75,3.2,3.0
+27,Male,Jambi,Non e-paylater user,"Diploma I, II, III",1999,Working,"Rp 2,500,001 - Rp 5,000,000",21% - 40%,1.5,2.0,1.5,1.25,3.2,2.8
+28,Male,North Sumatera,Non e-paylater user,Until Senior High School,1997,Students,"Less than Rp 1,000,000",More than 100%,2.0,2.25,4.0,3.75,2.0,4.2
+29,Male,West Sumatera,Non e-paylater user,Post Graduate,1978,Working,"Rp 5,000,001 - Rp 7,500,000",21% - 40%,3.5,2.5,3.0,3.5,3.2,3.6
+30,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1998,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,3.25,1.0,3.0,3.0,3.4,4.8
+31,Male,DKI Jakarta,e-paylater user,Bachelor/Diploma IV,1999,Working,"More than Rp 10,000,000",Less than 20%,3.0,1.0,2.1666666666666665,3.75,3.6,2.4
+32,Female,West Sumatera,Non e-paylater user,Until Senior High School,2001,Students,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,4.0,1.5,2.0,4.25,3.0,3.0
+33,Female,West Sumatera,Non e-paylater user,Until Senior High School,1998,Students,"Less than Rp 1,000,000",Less than 20%,2.75,1.0,1.0,3.0,2.8,3.6
+34,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1998,Entrepreneur,"Rp 2,500,001 - Rp 5,000,000",21% - 40%,3.5,2.0,2.0,2.0,3.6,4.0
+35,Male,West Sumatera,Non e-paylater user,Until Senior High School,2001,Students,"Less than Rp 1,000,000",Less than 20%,3.0,2.5,2.3333333333333335,4.0,2.8,3.4
+36,Female,West Sumatera,Non e-paylater user,"Diploma I, II, III",1998,Students,"Less than Rp 1,000,000",Less than 20%,2.5,1.5,3.5,3.25,3.2,3.6
+37,Male,West Sumatera,e-paylater user,"Diploma I, II, III",1998,Working,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,3.75,3.75,4.333333333333333,3.75,3.2,3.0
+38,Female,West Sumatera,Non e-paylater user,"Diploma I, II, III",2000,Students,"Less than Rp 1,000,000",Less than 20%,2.0,2.75,2.5,5.0,3.8,2.2
+39,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2000,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,4.5,1.0,1.5,5.0,1.6,5.0
+40,Female,DKI Jakarta,e-paylater user,Until Senior High School,1998,Not Working,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,2.75,2.0,2.0,3.0,3.0,3.0
+41,Female,North Sumatera,e-paylater user,Bachelor/Diploma IV,1998,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,3.75,3.75,3.0,3.75,2.6,3.8
+42,Female,DKI Jakarta,Non e-paylater user,Bachelor/Diploma IV,1996,Students,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,1.75,1.0,1.0,1.0,5.0,5.0
+43,Female,West Kalimantan,e-paylater user,Bachelor/Diploma IV,1985,Working,"Rp 1,000,001 - Rp 2,500,000",61% - 80%,3.0,4.0,3.0,4.0,3.0,3.0
+44,Male,West Java,Non e-paylater user,Until Senior High School,1998,Students,"Less than Rp 1,000,000",21% - 40%,3.25,3.0,3.8333333333333335,2.5,1.2,4.4
+45,Female,Kepulauan Riau,e-paylater user,Until Senior High School,1978,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,4.0,3.0,3.0,4.0,3.0,3.0
+46,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1980,Not Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,2.0,2.0,2.0,3.0,2.8,2.6
+47,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2004,Working,"More than Rp 10,000,000",Less than 20%,2.5,4.0,1.0,3.75,3.0,4.0
+48,Male,DKI Jakarta,Non e-paylater user,Bachelor/Diploma IV,1998,Working,"More than Rp 10,000,000",Less than 20%,3.0,2.0,2.0,3.25,2.8,3.4
+49,Male,DKI Jakarta,e-paylater user,Bachelor/Diploma IV,1988,Not Working,"Less than Rp 1,000,000",Less than 20%,5.0,5.0,5.0,5.0,2.6,5.0
+50,Female,Riau,Non e-paylater user,Post Graduate,2003,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,3.25,1.0,1.3333333333333333,2.0,3.4,3.2
+51,Male,West Java,Non e-paylater user,Bachelor/Diploma IV,1998,Entrepreneur,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.5,1.0,1.0,3.0,3.8,5.0
+52,Female,DKI Jakarta,e-paylater user,Post Graduate,1997,Working,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.0,2.75,2.5,2.0,3.8,2.2
+53,Female,Riau,Non e-paylater user,Bachelor/Diploma IV,1987,Students,"Less than Rp 1,000,000",Less than 20%,3.0,2.0,2.0,3.75,3.6,4.2
+54,Female,West Java,e-paylater user,Bachelor/Diploma IV,1979,Students,"Less than Rp 1,000,000",Less than 20%,2.0,4.0,4.0,4.0,3.2,2.2
+55,Female,Riau,Non e-paylater user,Until Senior High School,2002,Students,"Less than Rp 1,000,000",Less than 20%,4.25,1.75,2.5,5.0,2.2,2.2
+56,Female,DKI Jakarta,Non e-paylater user,Bachelor/Diploma IV,2000,Working,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,1.75,1.0,1.5,4.0,2.4,2.8
+57,Female,West Sumatera,e-paylater user,"Diploma I, II, III",2000,Students,"Less than Rp 1,000,000",21% - 40%,4.0,4.0,1.0,4.0,2.8,3.4
+58,Female,DKI Jakarta,Non e-paylater user,Post Graduate,1998,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.25,1.0,2.0,4.0,3.4,4.2
+59,Male,DKI Jakarta,e-paylater user,Post Graduate,1999,Working,"Rp 7,500,001 - Rp 10,000,000",21% - 40%,1.75,4.25,3.6666666666666665,4.5,4.2,3.6
+60,Female,West Sumatera,e-paylater user,Until Senior High School,1989,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,3.75,3.25,3.5,3.5,3.2,3.0
+61,Female,West Sumatera,e-paylater user,Until Senior High School,1984,Students,"Less than Rp 1,000,000",Less than 20%,1.5,1.75,2.0,3.25,3.8,3.6
+62,Female,West Sumatera,Non e-paylater user,Until Senior High School,1995,Students,"Less than Rp 1,000,000",Less than 20%,3.5,3.0,2.6666666666666665,4.0,3.4,3.0
+63,Female,DKI Jakarta,Non e-paylater user,Bachelor/Diploma IV,1976,Working,"More than Rp 10,000,000",Less than 20%,3.5,1.0,2.0,3.0,3.0,3.0
+64,Female,West Java,e-paylater user,Post Graduate,1997,Entrepreneur,"Rp 7,500,001 - Rp 10,000,000",41% - 60%,4.0,4.25,4.333333333333333,4.0,3.2,2.0
+65,Female,DKI Jakarta,Non e-paylater user,Bachelor/Diploma IV,1979,Students,"Less than Rp 1,000,000",21% - 40%,3.0,3.0,2.1666666666666665,4.0,2.8,3.2
+66,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1999,Working,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.5,2.0,2.0,2.0,3.8,3.8
+67,Female,West Sumatera,Non e-paylater user,Until Senior High School,2002,Students,"Less than Rp 1,000,000",21% - 40%,3.0,2.25,1.1666666666666667,4.75,3.0,3.8
+68,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2002,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,1.5,1.0,1.0,3.25,3.2,2.8
+69,Female,West Sumatera,Non e-paylater user,Until Senior High School,2001,Students,"Less than Rp 1,000,000",Less than 20%,2.75,3.25,3.0,3.0,2.8,3.0
+70,Female,DKI Jakarta,Non e-paylater user,Until Senior High School,1974,Students,"Less than Rp 1,000,000",21% - 40%,1.75,1.0,1.0,4.0,3.6,4.2
+71,Female,West Sumatera,Non e-paylater user,Until Senior High School,1982,Students,"Less than Rp 1,000,000",Less than 20%,3.25,2.25,1.5,4.0,2.6,3.0
+72,Female,Kepulauan Riau,Non e-paylater user,Until Senior High School,1994,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.25,1.0,1.0,4.5,3.2,3.6
+73,Male,West Sumatera,Non e-paylater user,"Diploma I, II, III",1996,Students,"Less than Rp 1,000,000",Less than 20%,3.75,4.0,3.6666666666666665,3.75,3.2,2.8
+74,Female,DKI Jakarta,Non e-paylater user,Bachelor/Diploma IV,1998,Working,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,1.75,1.0,1.0,2.75,4.6,5.0
+75,Female,Riau,Non e-paylater user,Bachelor/Diploma IV,1995,Working,"More than Rp 10,000,000",41% - 60%,3.0,2.0,2.0,4.0,3.4,5.0
+76,Female,West Java,e-paylater user,Bachelor/Diploma IV,1974,Students,"Less than Rp 1,000,000",21% - 40%,3.0,4.0,4.0,4.75,2.8,2.0
+77,Female,West Sumatera,Non e-paylater user,Until Senior High School,1988,Students,"Less than Rp 1,000,000",Less than 20%,3.0,2.0,2.0,3.25,3.4,2.0
+78,Male,West Sumatera,e-paylater user,Until Senior High School,1978,Students,"Less than Rp 1,000,000",Less than 20%,3.75,3.5,3.5,4.0,1.8,3.8
+79,Male,Riau,Non e-paylater user,Bachelor/Diploma IV,2001,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.0,2.0,2.0,2.0,3.2,2.0
+80,Male,West Java,Non e-paylater user,Bachelor/Diploma IV,1988,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,1.25,1.0,1.3333333333333333,3.0,4.0,3.6
+81,Female,West Sumatera,Non e-paylater user,Post Graduate,1995,Working,"More than Rp 10,000,000",Less than 20%,2.0,2.0,3.0,3.0,3.2,3.6
+82,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2002,Working,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,2.25,2.0,2.0,2.0,3.4,4.2
+83,Female,West Sumatera,e-paylater user,Until Senior High School,2001,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.75,3.0,2.3333333333333335,4.0,3.0,3.6
+84,Female,Jambi,Non e-paylater user,Until Senior High School,2002,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,4.25,1.0,2.0,4.75,2.6,1.8
+85,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1990,Working,"More than Rp 10,000,000",Less than 20%,2.5,1.0,1.0,4.0,4.0,3.0
+86,Male,West Sumatera,Non e-paylater user,Until Senior High School,1998,Students,"Less than Rp 1,000,000",21% - 40%,3.0,1.0,1.0,2.25,2.8,2.8
+87,Female,West Sumatera,e-paylater user,Bachelor/Diploma IV,1995,Entrepreneur,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,3.5,3.0,3.0,4.0,3.0,3.0
+88,Female,West Sumatera,Non e-paylater user,"Diploma I, II, III",1997,Students,"Less than Rp 1,000,000",Less than 20%,2.75,1.0,3.0,4.0,3.4,2.8
+89,Male,DKI Jakarta,Non e-paylater user,Until Senior High School,1986,Students,"Less than Rp 1,000,000",Less than 20%,1.5,2.75,2.6666666666666665,3.5,3.8,3.6
+90,Male,West Sumatera,Non e-paylater user,Until Senior High School,2001,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,2.0,1.0,1.0,5.0,3.4,4.4
+91,Female,West Java,Non e-paylater user,Until Senior High School,1989,Students,"Less than Rp 1,000,000",Less than 20%,4.25,2.0,2.5,5.0,2.4,1.8
+92,Female,West Java,e-paylater user,Until Senior High School,1989,Students,"Less than Rp 1,000,000",21% - 40%,3.0,3.0,2.0,4.0,3.0,2.8
+93,Female,DKI Jakarta,Non e-paylater user,Until Senior High School,1980,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,3.5,1.0,1.0,4.0,4.2,3.8
+94,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1999,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,2.25,2.0,2.0,4.0,3.4,3.0
+95,Female,West Sumatera,e-paylater user,Post Graduate,2001,Entrepreneur,"Rp 7,500,001 - Rp 10,000,000",41% - 60%,4.0,4.25,4.333333333333333,4.0,3.2,2.0
+96,Male,DKI Jakarta,Non e-paylater user,Post Graduate,1970,Working,"More than Rp 10,000,000",Less than 20%,1.5,1.0,1.0,2.75,4.0,3.8
+97,Female,DKI Jakarta,Non e-paylater user,Bachelor/Diploma IV,1992,Not Working,"Less than Rp 1,000,000",21% - 40%,4.0,1.0,1.0,4.0,2.6,4.4
+98,Female,West Sumatera,Non e-paylater user,Until Senior High School,2001,Students,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.0,1.0,1.3333333333333333,4.0,4.0,2.0
+99,Female,Bengkulu,Non e-paylater user,Until Senior High School,2003,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,3.5,1.0,1.0,3.5,2.8,3.6
+100,Male,West Sumatera,Non e-paylater user,Until Senior High School,2001,Students,"Less than Rp 1,000,000",Less than 20%,1.0,1.0,1.6666666666666667,3.0,3.6,3.6
+101,Female,West Sumatera,Non e-paylater user,Until Senior High School,2001,Students,"Less than Rp 1,000,000",21% - 40%,1.75,1.0,1.0,3.5,2.8,2.8
+102,Female,West Sumatera,Non e-paylater user,Until Senior High School,2003,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,3.0,4.0,3.1666666666666665,4.0,2.8,2.8
+103,Female,West Sumatera,Non e-paylater user,Until Senior High School,2003,Students,"Less than Rp 1,000,000",Less than 20%,1.0,2.0,2.0,2.0,3.2,3.6
+104,Female,West Sumatera,e-paylater user,Until Senior High School,2000,Students,"Less than Rp 1,000,000",21% - 40%,2.0,1.0,3.0,3.0,3.4,3.0
+105,Male,West Sumatera,Non e-paylater user,Until Senior High School,1998,Students,"Less than Rp 1,000,000",Less than 20%,3.5,3.0,3.0,4.25,3.0,2.2
+106,Female,West Sumatera,Non e-paylater user,Until Senior High School,2002,Students,"Rp 1,000,001 - Rp 2,500,000",61% - 80%,2.75,2.5,2.6666666666666665,5.0,2.8,3.2
+107,Female,Riau,Non e-paylater user,Until Senior High School,1996,Students,"Less than Rp 1,000,000",Less than 20%,1.75,1.0,1.0,3.25,3.2,4.8
+108,Female,West Sumatera,Non e-paylater user,Post Graduate,2002,Students,"Less than Rp 1,000,000",Less than 20%,3.5,2.0,3.0,4.0,3.0,3.0
+109,Female,West Sumatera,Non e-paylater user,Until Senior High School,2003,Students,"Less than Rp 1,000,000",41% - 60%,1.5,1.0,1.1666666666666667,4.0,3.8,4.8
+110,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2001,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.5,1.75,2.6666666666666665,4.0,3.6,4.2
+111,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2004,Entrepreneur,"More than Rp 10,000,000",Less than 20%,1.0,1.0,1.0,1.0,5.0,5.0
+112,Male,East Java,Non e-paylater user,Until Senior High School,2001,Students,"Less than Rp 1,000,000",Less than 20%,3.5,4.0,4.0,4.0,2.8,4.0
+113,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1992,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,3.75,2.25,3.0,3.0,3.4,2.2
+114,Female,DKI Jakarta,e-paylater user,Bachelor/Diploma IV,1990,Students,"Less than Rp 1,000,000",Less than 20%,4.5,1.5,2.1666666666666665,4.0,4.0,4.0
+115,Male,Riau,Non e-paylater user,Post Graduate,1984,Working,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,3.0,3.5,1.8333333333333333,1.75,3.4,3.4
+116,Male,West Sumatera,Non e-paylater user,Until Senior High School,1995,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.0,1.0,1.0,2.25,5.0,5.0
+117,Male,West Sumatera,Non e-paylater user,"Diploma I, II, III",1979,Working,"Rp 7,500,001 - Rp 10,000,000",21% - 40%,1.5,1.0,2.6666666666666665,2.25,2.6,5.0
+118,Female,West Sumatera,Non e-paylater user,Until Senior High School,2003,Students,"Less than Rp 1,000,000",Less than 20%,2.0,2.25,2.1666666666666665,4.0,2.8,4.4
+119,Female,West Sumatera,e-paylater user,Bachelor/Diploma IV,1990,Working,"More than Rp 10,000,000",Less than 20%,3.75,4.0,4.0,4.0,2.4,4.4
+120,Male,West Sumatera,e-paylater user,Bachelor/Diploma IV,2000,Working,"More than Rp 10,000,000",Less than 20%,3.75,4.0,4.0,4.0,2.4,4.4
+121,Female,West Sumatera,e-paylater user,Bachelor/Diploma IV,2002,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,4.0,4.25,3.6666666666666665,3.75,3.2,3.4
+122,Female,West Sumatera,Non e-paylater user,"Diploma I, II, III",2001,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.75,1.75,1.0,1.5,3.0,4.2
+123,Male,West Sumatera,e-paylater user,Bachelor/Diploma IV,2001,Working,"Rp 7,500,001 - Rp 10,000,000",21% - 40%,3.5,3.75,4.5,4.0,3.2,2.8
+124,Female,West Sumatera,e-paylater user,"Diploma I, II, III",2000,Working,"Rp 5,000,001 - Rp 7,500,000",21% - 40%,3.5,3.75,3.8333333333333335,3.5,3.0,3.6
+125,Female,DKI Jakarta,Non e-paylater user,Bachelor/Diploma IV,1995,Working,"Rp 5,000,001 - Rp 7,500,000",61% - 80%,2.5,1.5,2.0,4.0,3.8,3.6
+126,Female,West Sumatera,Non e-paylater user,"Diploma I, II, III",2000,Entrepreneur,"Rp 1,000,001 - Rp 2,500,000",41% - 60%,3.25,1.0,2.0,4.0,3.6,2.6
+127,Female,West Java,Non e-paylater user,Until Senior High School,1988,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,3.0,2.0,2.0,4.0,3.4,3.4
+128,Female,West Sumatera,Non e-paylater user,Until Senior High School,2002,Students,"Less than Rp 1,000,000",21% - 40%,3.0,2.0,3.0,4.0,3.4,3.0
+129,Female,West Sumatera,e-paylater user,Until Senior High School,2002,Students,"Less than Rp 1,000,000",Less than 20%,3.75,4.0,3.5,4.25,4.2,3.6
+130,Male,West Sumatera,Non e-paylater user,Until Senior High School,2003,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,1.25,1.0,1.3333333333333333,3.5,4.0,3.8
+131,Male,North Sumatera,Non e-paylater user,Until Senior High School,1996,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,1.25,2.0,2.0,3.0,3.6,4.0
+132,Male,West Sumatera,e-paylater user,Bachelor/Diploma IV,2003,Entrepreneur,"More than Rp 10,000,000",21% - 40%,4.25,2.0,3.5,2.25,2.0,3.4
+133,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2003,Working,"More than Rp 10,000,000",Less than 20%,2.0,2.0,1.3333333333333333,4.0,5.0,5.0
+134,Male,West Sumatera,Non e-paylater user,"Diploma I, II, III",2003,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,1.75,1.0,1.0,1.0,4.4,5.0
+135,Male,West Sumatera,e-paylater user,Bachelor/Diploma IV,2000,Working,"More than Rp 10,000,000",21% - 40%,2.5,2.5,2.6666666666666665,4.0,4.0,1.0
+136,Male,West Java,Non e-paylater user,Post Graduate,1989,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,3.25,4.0,4.0,4.0,4.6,5.0
+137,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1999,Entrepreneur,"Rp 5,000,001 - Rp 7,500,000",21% - 40%,1.0,2.0,2.3333333333333335,3.25,3.0,3.6
+138,Female,West Sumatera,Non e-paylater user,"Diploma I, II, III",2003,Students,"Less than Rp 1,000,000",Less than 20%,3.75,4.0,3.6666666666666665,3.75,3.2,2.8
+139,Female,DKI Jakarta,Non e-paylater user,Until Senior High School,1997,Students,"Less than Rp 1,000,000",41% - 60%,3.5,3.5,2.6666666666666665,3.5,2.6,4.0
+140,Female,West Sumatera,e-paylater user,Until Senior High School,1997,Students,"Less than Rp 1,000,000",Less than 20%,2.25,3.0,3.0,4.0,2.6,2.4
+141,Female,West Sumatera,Non e-paylater user,Post Graduate,2001,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,3.0,2.0,2.0,4.0,3.4,2.2
+142,Female,Riau,e-paylater user,Bachelor/Diploma IV,2001,Working,"Rp 5,000,001 - Rp 7,500,000",21% - 40%,4.5,4.0,4.0,4.0,2.0,4.0
+143,Female,West Java,Non e-paylater user,Until Senior High School,1977,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.0,2.25,1.1666666666666667,2.75,3.2,3.2
+144,Male,West Sumatera,Non e-paylater user,Post Graduate,2000,Working,"More than Rp 10,000,000",Less than 20%,1.0,1.0,1.0,3.75,3.6,4.6
+145,Male,West Sumatera,Non e-paylater user,Post Graduate,2000,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.5,1.0,1.0,1.0,2.6,1.0
+146,Female,West Sumatera,Non e-paylater user,Post Graduate,2002,Working,"Rp 7,500,001 - Rp 10,000,000",21% - 40%,2.0,2.0,2.0,2.75,2.8,3.6
+147,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2000,Students,"Less than Rp 1,000,000",Less than 20%,2.5,1.0,1.0,5.0,3.4,1.4
+148,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2001,Entrepreneur,"More than Rp 10,000,000",Less than 20%,5.0,3.0,2.0,4.0,3.2,4.2
+149,Female,Jambi,Non e-paylater user,Until Senior High School,2000,Students,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,4.0,2.75,3.0,3.0,3.4,2.0
+150,Female,West Sumatera,Non e-paylater user,Until Senior High School,1997,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,3.75,1.0,2.8333333333333335,4.0,2.8,3.2
+151,Female,Riau,e-paylater user,Bachelor/Diploma IV,2000,Working,"More than Rp 10,000,000",Less than 20%,3.75,4.0,4.0,4.0,2.4,4.4
+152,Female,West Sumatera,Non e-paylater user,Until Senior High School,2000,Students,"Less than Rp 1,000,000",21% - 40%,3.75,4.0,4.0,4.0,2.8,4.0
+153,Female,West Sumatera,Non e-paylater user,Until Senior High School,1997,Students,"Less than Rp 1,000,000",Less than 20%,2.25,3.75,3.1666666666666665,3.75,3.2,2.8
+154,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1996,Not Working,"Less than Rp 1,000,000",41% - 60%,3.75,1.0,1.0,4.0,3.2,3.2
+155,Female,West Sumatera,e-paylater user,Bachelor/Diploma IV,1999,Working,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,1.5,3.5,3.1666666666666665,4.0,3.2,5.0
+156,Male,West Sumatera,Non e-paylater user,Until Senior High School,2002,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,2.0,2.25,2.0,3.0,2.8,1.6
+157,Female,West Sumatera,Non e-paylater user,Post Graduate,1980,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.0,1.0,1.3333333333333333,3.75,3.8,3.8
+158,Female,Bengkulu,Non e-paylater user,Post Graduate,1999,Working,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,2.25,1.0,2.0,4.0,3.4,3.4
+159,Male,West Sumatera,Non e-paylater user,"Diploma I, II, III",1992,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,3.0,2.0,2.5,3.25,3.0,3.8
+160,Female,West Sumatera,Non e-paylater user,Until Senior High School,1983,Students,"Less than Rp 1,000,000",Less than 20%,2.0,1.0,2.0,4.0,3.6,3.0
+161,Male,West Sumatera,Non e-paylater user,Until Senior High School,1977,Students,"Less than Rp 1,000,000",Less than 20%,3.0,2.75,2.0,4.0,3.4,4.2
+162,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1996,Working,"More than Rp 10,000,000",81% - 100%,2.25,2.0,2.0,4.0,3.4,3.0
+163,Female,West Sumatera,Non e-paylater user,Until Senior High School,2002,Students,"Less than Rp 1,000,000",Less than 20%,2.5,3.0,3.8333333333333335,4.0,3.8,3.8
+164,Female,DKI Jakarta,Non e-paylater user,Until Senior High School,1983,Students,"Less than Rp 1,000,000",Less than 20%,2.25,1.0,2.0,4.0,2.8,4.8
+165,Female,DKI Jakarta,Non e-paylater user,Until Senior High School,1983,Students,"Less than Rp 1,000,000",Less than 20%,2.0,1.25,1.1666666666666667,4.0,3.4,2.6
+166,Male,West Sumatera,Non e-paylater user,"Diploma I, II, III",2003,Students,"Less than Rp 1,000,000",Less than 20%,2.75,2.0,2.0,4.0,3.0,3.0
+167,Female,West Sumatera,Non e-paylater user,Until Senior High School,2002,Students,"Less than Rp 1,000,000",21% - 40%,3.5,3.0,3.0,3.0,2.8,3.0
+168,Female,West Sumatera,e-paylater user,Until Senior High School,1998,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,2.25,2.5,3.3333333333333335,4.0,3.8,4.2
+169,Female,West Sumatera,e-paylater user,Until Senior High School,1999,Students,"Rp 1,000,001 - Rp 2,500,000",41% - 60%,3.75,4.0,4.0,4.0,2.8,2.4
+170,Female,Riau,Non e-paylater user,Bachelor/Diploma IV,1981,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,3.25,4.0,3.5,4.0,3.4,3.8
+171,Male,West Sumatera,Non e-paylater user,Post Graduate,2002,Working,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,3.25,3.0,2.8333333333333335,4.0,3.4,3.4
+172,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2001,Working,"More than Rp 10,000,000",Less than 20%,2.0,1.0,1.1666666666666667,3.5,4.2,4.4
+173,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1998,Not Working,"More than Rp 10,000,000",21% - 40%,1.75,2.0,1.6666666666666667,3.5,4.0,1.8
+174,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2000,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,1.5,1.5,1.1666666666666667,3.0,3.6,3.8
+175,Female,West Java,Non e-paylater user,Until Senior High School,1989,Students,"Less than Rp 1,000,000",Less than 20%,3.25,3.5,3.8333333333333335,4.0,3.2,3.8
+176,Female,West Sumatera,Non e-paylater user,Until Senior High School,2003,Students,"Less than Rp 1,000,000",Less than 20%,3.5,2.75,2.0,3.5,3.8,4.2
+177,Female,West Sumatera,e-paylater user,Bachelor/Diploma IV,2000,Working,"Less than Rp 1,000,000",Less than 20%,3.0,2.0,2.6666666666666665,3.5,2.6,3.2
+178,Female,West Sumatera,Non e-paylater user,Post Graduate,2000,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,1.75,1.0,1.0,1.0,3.8,4.6
+179,Female,West Sumatera,e-paylater user,Until Senior High School,2003,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,3.5,4.0,3.8333333333333335,4.0,3.6,5.0
+180,Female,Jambi,Non e-paylater user,Until Senior High School,2000,Students,"Less than Rp 1,000,000",21% - 40%,2.0,2.75,2.5,5.0,2.8,4.4
+181,Female,West Sumatera,e-paylater user,Until Senior High School,2003,Students,"Less than Rp 1,000,000",21% - 40%,2.5,4.0,4.0,3.5,2.8,2.8
+182,Female,Bengkulu,e-paylater user,Bachelor/Diploma IV,1998,Working,"Rp 5,000,001 - Rp 7,500,000",41% - 60%,3.5,4.0,4.666666666666667,3.0,3.2,2.8
+183,Female,Kepulauan Riau,e-paylater user,Until Senior High School,2001,Working,"Rp 2,500,001 - Rp 5,000,000",21% - 40%,2.75,3.0,2.0,4.0,3.2,4.6
+184,Female,DKI Jakarta,Non e-paylater user,Until Senior High School,2002,Students,"Less than Rp 1,000,000",Less than 20%,3.0,1.0,2.0,4.0,3.2,2.2
+185,Female,West Sumatera,Non e-paylater user,Post Graduate,2001,Working,"Rp 2,500,001 - Rp 5,000,000",21% - 40%,3.25,2.0,1.1666666666666667,4.0,4.0,2.6
+186,Female,DKI Jakarta,Non e-paylater user,"Diploma I, II, III",2003,Students,"Less than Rp 1,000,000",Less than 20%,3.5,1.0,1.0,3.5,3.6,2.2
+187,Female,West Sumatera,Non e-paylater user,Until Senior High School,2001,Students,"Less than Rp 1,000,000",Less than 20%,3.75,4.0,2.6666666666666665,4.0,3.2,2.6
+188,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1999,Working,"More than Rp 10,000,000",Less than 20%,2.0,2.0,2.6666666666666665,4.0,3.2,2.8
+189,Female,Jambi,Non e-paylater user,Until Senior High School,2000,Not Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.0,1.0,1.1666666666666667,1.0,3.0,5.0
+190,Female,West Sumatera,e-paylater user,Bachelor/Diploma IV,2002,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,3.5,2.0,3.0,3.0,3.2,3.6
+191,Male,West Java,Non e-paylater user,Post Graduate,1998,Working,"More than Rp 10,000,000",Less than 20%,2.0,2.0,2.0,4.0,4.0,4.2
+192,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2001,Not Working,"More than Rp 10,000,000",21% - 40%,2.0,1.0,1.0,4.0,3.0,3.8
+193,Female,West Sumatera,Non e-paylater user,"Diploma I, II, III",2000,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,3.25,3.25,3.3333333333333335,3.5,2.8,4.2
+194,Female,West Sumatera,Non e-paylater user,Post Graduate,2001,Working,"More than Rp 10,000,000",Less than 20%,1.75,2.0,2.0,2.25,3.4,3.8
+195,Male,DKI Jakarta,Non e-paylater user,Bachelor/Diploma IV,1987,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,2.0,2.0,2.0,2.75,4.0,4.6
+196,Male,West Sumatera,e-paylater user,Post Graduate,2002,Entrepreneur,"More than Rp 10,000,000",21% - 40%,3.75,4.5,4.5,4.5,2.8,3.2
+197,Female,West Kalimantan,Non e-paylater user,Until Senior High School,2005,Students,"Less than Rp 1,000,000",Less than 20%,3.5,1.0,1.0,4.0,2.8,1.2
+198,Female,West Sumatera,e-paylater user,Bachelor/Diploma IV,2000,Working,"Rp 1,000,001 - Rp 2,500,000",41% - 60%,4.0,3.5,4.0,4.0,2.8,4.0
+199,Female,West Sumatera,Non e-paylater user,Post Graduate,1999,Working,"Rp 7,500,001 - Rp 10,000,000",21% - 40%,1.75,1.0,1.0,4.0,4.0,3.2
+200,Female,West Java,Non e-paylater user,Bachelor/Diploma IV,2000,Entrepreneur,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.0,2.0,2.3333333333333335,4.0,4.4,3.6
+201,Female,DKI Jakarta,Non e-paylater user,Until Senior High School,2004,Students,"Less than Rp 1,000,000",Less than 20%,3.25,3.5,2.1666666666666665,4.0,3.6,3.4
+202,Female,West Sumatera,e-paylater user,Until Senior High School,2000,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,3.25,3.0,3.6666666666666665,4.0,3.0,3.6
+203,Female,West Sumatera,Non e-paylater user,Until Senior High School,2000,Students,"Less than Rp 1,000,000",21% - 40%,4.0,2.0,2.0,3.5,2.6,3.8
+204,Female,DKI Jakarta,Non e-paylater user,Bachelor/Diploma IV,2001,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,1.5,3.0,2.3333333333333335,3.25,4.0,4.2
+205,Female,DKI Jakarta,Non e-paylater user,Until Senior High School,2002,Students,"Less than Rp 1,000,000",Less than 20%,2.0,3.0,3.0,3.0,3.0,3.0
+206,Male,DKI Jakarta,Non e-paylater user,Until Senior High School,1995,Students,"Less than Rp 1,000,000",41% - 60%,4.0,3.0,4.166666666666667,3.25,3.8,3.4
+207,Male,Banten,Non e-paylater user,Until Senior High School,2002,Students,"Less than Rp 1,000,000",21% - 40%,2.0,1.0,2.0,4.25,2.8,3.6
+208,Male,East Java,e-paylater user,Until Senior High School,2002,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,3.25,3.5,3.5,4.0,3.4,3.2
+209,Female,West Sumatera,Non e-paylater user,Until Senior High School,1990,Students,"Less than Rp 1,000,000",Less than 20%,2.5,2.0,1.0,4.0,3.4,3.2
+210,Male,DKI Jakarta,Non e-paylater user,Post Graduate,2003,Working,"More than Rp 10,000,000",Less than 20%,2.0,2.0,1.0,3.0,3.4,3.0
+211,Male,West Sumatera,e-paylater user,Bachelor/Diploma IV,2001,Students,"Less than Rp 1,000,000",21% - 40%,2.25,2.0,2.0,3.75,3.6,3.2
+212,Male,Bengkulu,Non e-paylater user,Until Senior High School,1999,Students,"Less than Rp 1,000,000",21% - 40%,2.5,2.0,2.0,3.25,3.0,2.8
+213,Male,West Java,Non e-paylater user,Bachelor/Diploma IV,2002,Working,"More than Rp 10,000,000",Less than 20%,1.0,1.0,1.0,1.0,2.8,2.8
+214,Male,West Java,e-paylater user,Bachelor/Diploma IV,1997,Working,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,3.25,2.0,2.0,4.0,2.8,3.6
+215,Female,West Java,Non e-paylater user,Until Senior High School,2003,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,1.5,1.0,1.0,4.0,2.4,5.0
+216,Male,DKI Jakarta,Non e-paylater user,"Diploma I, II, III",2003,Students,"Less than Rp 1,000,000",Less than 20%,3.75,4.0,3.6666666666666665,3.75,3.2,2.8
+217,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1997,Students,"Less than Rp 1,000,000",21% - 40%,4.25,1.75,2.6666666666666665,4.0,3.8,4.4
+218,Male,DKI Jakarta,e-paylater user,Bachelor/Diploma IV,2004,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,1.75,1.0,3.0,3.0,4.0,4.6
+219,Female,DKI Jakarta,Non e-paylater user,Until Senior High School,2003,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,2.0,2.0,2.0,3.5,3.0,2.8
+220,Male,Lampung,Non e-paylater user,Until Senior High School,2002,Students,"Less than Rp 1,000,000",Less than 20%,3.25,2.5,2.3333333333333335,5.0,3.4,1.8
+221,Female,West Sumatera,e-paylater user,Bachelor/Diploma IV,1981,Working,"More than Rp 10,000,000",Less than 20%,3.75,4.0,4.0,4.0,2.4,4.4
+222,Male,DKI Jakarta,Non e-paylater user,Bachelor/Diploma IV,2004,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,3.0,3.75,3.0,3.25,3.4,2.4
+223,Male,West Sumatera,Non e-paylater user,Post Graduate,1987,Students,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.75,2.0,3.0,3.0,4.4,1.0
+224,Male,West Sumatera,Non e-paylater user,"Diploma I, II, III",1996,Students,"Less than Rp 1,000,000",Less than 20%,3.75,4.0,3.6666666666666665,3.75,3.2,2.8
+225,Male,DKI Jakarta,Non e-paylater user,Until Senior High School,2002,Students,"Less than Rp 1,000,000",Less than 20%,3.25,2.0,2.1666666666666665,4.5,4.4,5.0
+226,Male,DKI Jakarta,Non e-paylater user,Post Graduate,1981,Working,"More than Rp 10,000,000",Less than 20%,2.0,2.0,2.0,4.0,4.0,1.6
+227,Female,Riau,Non e-paylater user,Until Senior High School,1992,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,2.5,2.75,4.166666666666667,4.25,3.4,3.4
+228,Female,West Sumatera,Non e-paylater user,Until Senior High School,1989,Students,"Less than Rp 1,000,000",Less than 20%,1.75,1.0,1.0,3.25,2.8,1.6
+229,Female,DKI Jakarta,e-paylater user,Until Senior High School,2002,Students,"Less than Rp 1,000,000",Less than 20%,2.25,3.75,2.6666666666666665,3.25,3.6,1.2
+230,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1999,Entrepreneur,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,1.75,1.0,2.1666666666666665,3.5,4.2,3.6
+231,Male,West Sumatera,Non e-paylater user,Post Graduate,1985,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.0,2.0,2.0,3.0,3.0,4.2
+232,Male,West Sumatera,Non e-paylater user,Until Senior High School,1996,Students,"Less than Rp 1,000,000",Less than 20%,1.75,1.75,2.0,3.0,1.6,1.2
+233,Female,Banten,Non e-paylater user,Post Graduate,1999,Working,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.0,1.0,1.0,3.5,4.0,2.6
+234,Female,Banten,Non e-paylater user,"Diploma I, II, III",2002,Students,"Less than Rp 1,000,000",Less than 20%,3.0,1.0,1.0,2.5,2.8,4.2
+235,Female,DKI Jakarta,Non e-paylater user,Bachelor/Diploma IV,2002,Working,"More than Rp 10,000,000",61% - 80%,5.0,3.0,3.0,4.0,2.2,2.6
+236,Female,West Sumatera,Non e-paylater user,Post Graduate,2002,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.0,2.0,2.0,3.0,2.6,3.8
+237,Female,West Sumatera,Non e-paylater user,Post Graduate,1978,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,2.0,1.0,1.0,3.5,3.4,4.0
+238,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1995,Working,"More than Rp 10,000,000",Less than 20%,3.25,2.0,2.0,3.25,3.8,2.6
+239,Female,West Sumatera,Non e-paylater user,Until Senior High School,1989,Students,"Less than Rp 1,000,000",Less than 20%,4.0,3.0,3.0,3.0,2.8,3.0
+240,Male,DKI Jakarta,Non e-paylater user,Until Senior High School,1985,Students,"Less than Rp 1,000,000",Less than 20%,3.25,3.0,3.0,4.0,2.8,4.0
+241,Male,Nanggore Aceh Darussalam,Non e-paylater user,Post Graduate,2003,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,2.0,1.0,1.0,2.5,3.6,2.8
+242,Female,West Sumatera,e-paylater user,Bachelor/Diploma IV,2001,Working,"Rp 2,500,001 - Rp 5,000,000",41% - 60%,3.25,4.0,3.0,4.0,3.6,2.0
+243,Male,West Sumatera,e-paylater user,Bachelor/Diploma IV,2003,Working,"Rp 5,000,001 - Rp 7,500,000",21% - 40%,3.0,4.0,3.3333333333333335,4.0,3.6,3.6
+244,Female,DI Yogyakarta,e-paylater user,Bachelor/Diploma IV,2001,Working,"More than Rp 10,000,000",Less than 20%,3.5,3.5,3.0,3.0,3.2,3.4
+245,Female,DKI Jakarta,Non e-paylater user,Bachelor/Diploma IV,2003,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,3.25,1.0,1.1666666666666667,3.0,3.0,4.4
+246,Female,DKI Jakarta,Non e-paylater user,Bachelor/Diploma IV,2002,Working,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,3.0,2.75,2.0,4.0,3.2,3.4
+247,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1990,Working,"Rp 2,500,001 - Rp 5,000,000",21% - 40%,4.0,2.0,1.5,4.0,4.0,4.0
+248,Female,DKI Jakarta,Non e-paylater user,Post Graduate,1997,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,1.0,1.0,1.0,2.0,5.0,3.6
+249,Female,West Java,Non e-paylater user,"Diploma I, II, III",2003,Entrepreneur,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,4.0,4.0,4.0,4.0,2.6,2.0
+250,Female,DKI Jakarta,Non e-paylater user,Until Senior High School,2002,Students,"Less than Rp 1,000,000",Less than 20%,3.5,2.0,3.0,4.0,2.8,3.4
+251,Male,West Sumatera,Non e-paylater user,Post Graduate,2002,Working,"Rp 5,000,001 - Rp 7,500,000",21% - 40%,3.75,1.0,1.1666666666666667,3.0,3.0,4.2
+252,Female,West Sumatera,Non e-paylater user,Until Senior High School,1969,Students,"Less than Rp 1,000,000",Less than 20%,3.0,1.0,2.0,4.5,2.4,4.4
+253,Male,West Sumatera,Non e-paylater user,Until Senior High School,1977,Students,"Less than Rp 1,000,000",Less than 20%,2.0,2.5,1.8333333333333333,2.0,3.8,2.8
+254,Male,West Java,Non e-paylater user,Until Senior High School,1978,Students,"Less than Rp 1,000,000",21% - 40%,3.5,1.0,2.3333333333333335,4.0,2.6,3.8
+255,Female,West Sumatera,e-paylater user,"Diploma I, II, III",1989,Students,"Less than Rp 1,000,000",41% - 60%,2.5,1.0,1.0,3.5,3.8,3.6
+256,Female,West Sumatera,Non e-paylater user,Until Senior High School,1999,Students,"Less than Rp 1,000,000",Less than 20%,2.0,1.0,1.0,3.5,4.2,4.8
+257,Female,DKI Jakarta,e-paylater user,"Diploma I, II, III",1993,Not Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.0,3.25,3.0,3.0,2.8,3.6
+258,Female,Central Java,Non e-paylater user,Bachelor/Diploma IV,2002,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,4.0,2.75,3.1666666666666665,4.0,3.2,2.8
+259,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1995,Students,"Less than Rp 1,000,000",Less than 20%,3.25,2.75,2.3333333333333335,3.0,2.6,2.6
+260,Female,Banten,e-paylater user,Bachelor/Diploma IV,2002,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,1.75,4.0,2.6666666666666665,3.0,4.0,5.0
+261,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1990,Working,"More than Rp 10,000,000",Less than 20%,2.0,2.0,2.0,3.0,3.4,5.0
+262,Female,West Sumatera,Non e-paylater user,Until Senior High School,1983,Students,"Less than Rp 1,000,000",Less than 20%,2.75,2.0,3.0,3.25,2.8,5.0
+263,Female,West Sumatera,Non e-paylater user,Post Graduate,1994,Working,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,2.0,2.0,2.5,4.0,3.6,3.8
+264,Male,West Sumatera,Non e-paylater user,Until Senior High School,1991,Students,"Less than Rp 1,000,000",Less than 20%,2.75,2.0,2.1666666666666665,3.0,3.6,5.0
+265,Female,West Sumatera,Non e-paylater user,Until Senior High School,1993,Students,"Less than Rp 1,000,000",Less than 20%,2.75,3.5,2.6666666666666665,3.5,4.0,3.0
+266,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2002,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,3.5,2.0,2.0,3.5,3.0,3.0
+267,Female,West Sumatera,e-paylater user,Until Senior High School,1992,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.75,1.0,1.0,4.0,3.2,3.8
+268,Male,West Sumatera,Non e-paylater user,Until Senior High School,1984,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,4.0,2.0,3.6666666666666665,4.0,2.8,3.4
+269,Female,West Sumatera,Non e-paylater user,Until Senior High School,1980,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,3.75,4.25,3.6666666666666665,5.0,3.2,3.8
+270,Male,West Sumatera,Non e-paylater user,Until Senior High School,1995,Students,"Less than Rp 1,000,000",Less than 20%,1.0,2.0,2.0,3.0,3.6,4.4
+271,Female,DKI Jakarta,Non e-paylater user,Until Senior High School,2002,Students,"Less than Rp 1,000,000",Less than 20%,2.0,1.0,1.5,4.0,4.2,2.4
+272,Female,DKI Jakarta,Non e-paylater user,Until Senior High School,1996,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,2.25,1.75,3.3333333333333335,4.0,2.8,2.8
+273,Female,West Java,e-paylater user,Bachelor/Diploma IV,2002,Working,"Rp 7,500,001 - Rp 10,000,000",21% - 40%,2.0,1.0,1.0,1.0,3.4,3.0
+274,Male,Riau,Non e-paylater user,Until Senior High School,1977,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.0,1.0,1.0,4.0,3.0,4.2
+275,Male,East Java,Non e-paylater user,"Diploma I, II, III",1988,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.0,2.0,2.0,3.0,3.8,3.8
+276,Male,East Java,e-paylater user,Post Graduate,2002,Working,"Rp 1,000,001 - Rp 2,500,000",61% - 80%,3.5,4.0,2.3333333333333335,4.0,3.2,5.0
+277,Female,Banten,e-paylater user,Bachelor/Diploma IV,1994,Working,"More than Rp 10,000,000",41% - 60%,4.5,3.5,2.0,4.0,2.8,3.0
+278,Male,Riau,Non e-paylater user,Bachelor/Diploma IV,1980,Students,"Less than Rp 1,000,000",Less than 20%,3.25,4.0,4.0,4.0,2.8,3.0
+279,Female,West Sumatera,e-paylater user,Until Senior High School,1994,Not Working,"Rp 2,500,001 - Rp 5,000,000",21% - 40%,2.0,3.5,2.1666666666666665,3.25,3.8,4.2
+280,Female,West Sumatera,Non e-paylater user,Until Senior High School,1977,Students,"Less than Rp 1,000,000",Less than 20%,3.25,1.0,1.0,4.25,3.2,4.2
+281,Female,West Nusa Tenggara,Non e-paylater user,Until Senior High School,2002,Students,"Less than Rp 1,000,000",Less than 20%,2.0,4.0,4.0,5.0,2.8,1.0
+282,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1977,Students,"Less than Rp 1,000,000",Less than 20%,1.0,1.0,1.1666666666666667,1.0,3.0,2.2
+283,Male,West Sumatera,Non e-paylater user,Post Graduate,1978,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.0,2.0,3.1666666666666665,4.0,3.4,4.6
+284,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1988,Working,"More than Rp 10,000,000",21% - 40%,2.25,1.0,3.0,3.0,3.4,3.4
+285,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1972,Working,"Rp 7,500,001 - Rp 10,000,000",41% - 60%,2.0,1.0,1.0,3.25,4.6,3.8
+286,Female,Kepulauan Riau,Non e-paylater user,Post Graduate,1979,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,2.0,1.0,2.0,2.5,4.8,3.6
+287,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1984,Working,"Rp 5,000,001 - Rp 7,500,000",21% - 40%,3.0,3.0,4.0,4.0,3.4,4.0
+288,Female,West Sumatera,Non e-paylater user,Until Senior High School,1969,Students,"Less than Rp 1,000,000",21% - 40%,1.75,1.0,1.0,4.0,3.4,4.2
+289,Female,West Sumatera,Non e-paylater user,"Diploma I, II, III",1979,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,1.0,1.0,1.0,3.0,4.0,3.6
+290,Female,West Sumatera,e-paylater user,Post Graduate,1990,Working,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,3.0,4.0,3.3333333333333335,4.0,2.8,4.4
+291,Male,Nanggore Aceh Darussalam,e-paylater user,Until Senior High School,1979,Students,"Less than Rp 1,000,000",21% - 40%,4.0,2.75,3.3333333333333335,3.5,1.4,4.8
+292,Male,Banten,e-paylater user,Bachelor/Diploma IV,1974,Students,"Less than Rp 1,000,000",Less than 20%,3.5,4.0,4.0,1.75,2.2,3.2
+293,Male,West Sumatera,e-paylater user,Bachelor/Diploma IV,1981,Working,"More than Rp 10,000,000",Less than 20%,2.25,4.0,3.8333333333333335,4.0,3.4,3.0
+294,Female,DKI Jakarta,Non e-paylater user,Until Senior High School,1979,Students,"Less than Rp 1,000,000",Less than 20%,4.0,2.0,2.0,4.0,2.8,3.0
+295,Female,DKI Jakarta,Non e-paylater user,Post Graduate,2002,Working,"More than Rp 10,000,000",41% - 60%,2.0,1.0,1.1666666666666667,4.0,4.0,3.4
+296,Female,Central Java,e-paylater user,Until Senior High School,1979,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,3.0,3.75,4.0,4.75,3.8,3.4
+297,Female,West Java,Non e-paylater user,Until Senior High School,1978,Students,"Less than Rp 1,000,000",Less than 20%,4.0,3.75,3.8333333333333335,5.0,3.0,3.8
+298,Female,DKI Jakarta,Non e-paylater user,Bachelor/Diploma IV,2002,Working,"Rp 7,500,001 - Rp 10,000,000",21% - 40%,2.5,1.0,2.0,4.0,3.0,3.6
+299,Female,West Sumatera,e-paylater user,Until Senior High School,1994,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,3.0,4.25,3.0,2.75,3.0,2.2
+300,Female,Riau,Non e-paylater user,Bachelor/Diploma IV,1973,Students,"Less than Rp 1,000,000",41% - 60%,3.5,2.0,2.0,3.5,3.2,3.4
+301,Male,North Sumatera,Non e-paylater user,Bachelor/Diploma IV,1973,Working,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,1.75,2.25,3.1666666666666665,4.0,3.4,3.6
+302,Female,West Sumatera,Non e-paylater user,Until Senior High School,1978,Students,"Less than Rp 1,000,000",Less than 20%,1.25,3.5,1.0,2.25,3.4,3.2
+303,Female,West Sumatera,Non e-paylater user,Until Senior High School,1987,Students,"Less than Rp 1,000,000",Less than 20%,2.0,2.0,1.3333333333333333,3.5,3.4,4.4
+304,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1982,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.0,2.0,2.0,2.0,4.4,4.6
+305,Female,West Sumatera,Non e-paylater user,Post Graduate,1974,Working,"More than Rp 10,000,000",Less than 20%,2.0,1.75,2.0,2.75,3.6,3.2
+306,Female,West Java,Non e-paylater user,Post Graduate,1970,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,3.0,2.0,2.1666666666666665,3.5,3.4,2.0
+307,Male,West Sumatera,Non e-paylater user,Post Graduate,2002,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.0,2.0,2.0,3.5,3.6,2.8
+308,Male,Bengkulu,Non e-paylater user,Post Graduate,1975,Working,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,3.75,2.0,2.5,3.75,3.6,2.6
+309,Female,Kepulauan Riau,Non e-paylater user,Bachelor/Diploma IV,1973,Not Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.0,1.0,3.0,2.0,3.0,2.8
+310,Female,DKI Jakarta,Non e-paylater user,Bachelor/Diploma IV,2002,Working,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,3.75,2.0,3.3333333333333335,4.0,3.4,3.4
+311,Male,Jambi,e-paylater user,Bachelor/Diploma IV,1996,Working,"More than Rp 10,000,000",Less than 20%,3.0,3.5,3.6666666666666665,3.0,3.2,3.0
+312,Female,Central Java,e-paylater user,Until Senior High School,1971,Students,"Less than Rp 1,000,000",Less than 20%,2.5,1.0,1.1666666666666667,4.0,3.0,3.2
+313,Female,West Java,Non e-paylater user,Post Graduate,1979,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,3.5,2.0,2.0,2.0,2.6,3.2
+314,Female,Kepulauan Riau,Non e-paylater user,Until Senior High School,1983,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,3.0,3.0,3.0,3.25,2.8,4.0
+315,Female,Jambi,Non e-paylater user,Until Senior High School,1984,Students,"Less than Rp 1,000,000",21% - 40%,3.75,1.0,1.0,4.0,1.8,1.4
+316,Female,DKI Jakarta,Non e-paylater user,"Diploma I, II, III",1978,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,2.5,3.0,3.0,4.0,2.8,3.0
+317,Male,DKI Jakarta,e-paylater user,"Diploma I, II, III",1978,Working,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,3.75,3.75,4.333333333333333,3.75,3.2,3.0
+318,Male,West Sumatera,e-paylater user,Post Graduate,1979,Working,"More than Rp 10,000,000",Less than 20%,1.0,3.0,1.0,2.0,5.0,2.2
+319,Female,West Java,Non e-paylater user,Bachelor/Diploma IV,1978,Working,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,3.75,3.0,3.0,3.0,3.4,4.8
+320,Female,West Sumatera,Non e-paylater user,Post Graduate,1999,Working,"More than Rp 10,000,000",21% - 40%,3.25,3.0,2.1666666666666665,4.0,2.8,2.8
+321,Female,Banten,e-paylater user,Post Graduate,1979,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,3.0,2.0,2.0,3.75,2.8,3.0
+322,Female,Kepulauan Riau,Non e-paylater user,"Diploma I, II, III",1977,Students,"Less than Rp 1,000,000",61% - 80%,1.75,2.75,2.3333333333333335,3.75,3.0,3.0
+323,Female,South Sumatera,Non e-paylater user,Bachelor/Diploma IV,1979,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.0,1.0,2.0,4.0,4.0,3.6
+324,Male,Jambi,e-paylater user,Post Graduate,1979,Working,"Rp 7,500,001 - Rp 10,000,000",61% - 80%,1.25,2.75,1.5,4.0,3.4,4.4
+325,Female,West Sumatera,e-paylater user,Bachelor/Diploma IV,1978,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,4.0,4.25,3.6666666666666665,3.75,3.2,3.4
+326,Male,West Java,Non e-paylater user,Until Senior High School,1979,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,1.25,1.0,1.0,3.0,4.2,5.0
+327,Male,DKI Jakarta,e-paylater user,Bachelor/Diploma IV,2002,Working,"Rp 5,000,001 - Rp 7,500,000",21% - 40%,2.5,3.25,2.8333333333333335,4.0,3.2,1.4
+328,Male,West Sumatera,Non e-paylater user,"Diploma I, II, III",1978,Students,"Less than Rp 1,000,000",Less than 20%,3.75,4.0,3.6666666666666665,3.75,3.2,2.8
+329,Male,Central Java,e-paylater user,Until Senior High School,1967,Students,"Less than Rp 1,000,000",21% - 40%,1.0,1.5,1.6666666666666667,2.0,3.2,4.8
+330,Male,Central Java,e-paylater user,Bachelor/Diploma IV,1974,Working,"Rp 7,500,001 - Rp 10,000,000",21% - 40%,3.5,3.75,4.5,4.0,3.2,2.8
+331,Female,West Sumatera,e-paylater user,"Diploma I, II, III",1979,Working,"Rp 5,000,001 - Rp 7,500,000",21% - 40%,3.5,3.75,3.8333333333333335,3.5,3.0,3.6
+332,Female,West Sumatera,Non e-paylater user,Until Senior High School,1978,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,3.5,2.0,2.5,3.0,3.4,3.2
+333,Female,Riau,Non e-paylater user,Post Graduate,1993,Working,"Rp 7,500,001 - Rp 10,000,000",21% - 40%,2.0,1.0,3.0,2.0,3.2,4.6
+334,Male,Riau,e-paylater user,Bachelor/Diploma IV,1989,Entrepreneur,"More than Rp 10,000,000",21% - 40%,4.25,2.0,3.5,2.25,2.0,3.4
+335,Male,Riau,e-paylater user,Bachelor/Diploma IV,1994,Working,"Rp 7,500,001 - Rp 10,000,000",21% - 40%,3.5,3.75,4.5,4.0,3.2,2.8
+336,Female,West Sumatera,e-paylater user,Until Senior High School,2000,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.75,3.0,2.8333333333333335,3.0,3.0,3.8
+337,Female,West Sumatera,Non e-paylater user,Until Senior High School,1981,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,1.75,1.0,3.0,4.0,3.8,2.8
+338,Female,West Sumatera,e-paylater user,Bachelor/Diploma IV,1979,Working,"Rp 2,500,001 - Rp 5,000,000",21% - 40%,2.5,2.75,3.3333333333333335,3.25,3.2,3.0
+339,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1979,Students,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.5,2.0,2.0,2.75,3.6,4.4
+340,Female,Maluku,Non e-paylater user,Bachelor/Diploma IV,1994,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,1.5,1.0,1.0,2.0,4.4,4.0
+341,Male,DKI Jakarta,e-paylater user,"Diploma I, II, III",1979,Working,"Rp 5,000,001 - Rp 7,500,000",21% - 40%,3.5,3.75,3.8333333333333335,3.5,3.0,3.6
+342,Male,DKI Jakarta,e-paylater user,Bachelor/Diploma IV,1979,Working,"Rp 7,500,001 - Rp 10,000,000",21% - 40%,3.5,3.75,4.5,4.0,3.2,2.8
+343,Male,West Sumatera,e-paylater user,Bachelor/Diploma IV,1987,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,3.0,1.0,3.0,2.0,3.2,3.4
+344,Female,DKI Jakarta,Non e-paylater user,Until Senior High School,2003,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,1.75,1.0,1.0,5.0,5.0,5.0
+345,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1979,Working,"More than Rp 10,000,000",21% - 40%,1.0,2.0,2.0,2.75,3.2,3.0
+346,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2003,Students,"Less than Rp 1,000,000",21% - 40%,3.0,3.25,3.3333333333333335,5.0,3.2,4.0
+347,Female,West Sumatera,e-paylater user,Bachelor/Diploma IV,2002,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,1.0,1.0,1.0,3.75,4.4,3.8
+348,Female,DKI Jakarta,e-paylater user,Bachelor/Diploma IV,1989,Working,"Rp 7,500,001 - Rp 10,000,000",21% - 40%,2.0,3.0,2.0,3.75,3.4,3.6
+349,Female,West Sumatera,Non e-paylater user,Post Graduate,1999,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,1.0,1.0,1.0,2.0,4.8,5.0
+350,Female,West Nusa Tenggara,e-paylater user,Bachelor/Diploma IV,1980,Working,"More than Rp 10,000,000",21% - 40%,3.0,2.0,1.3333333333333333,1.0,4.0,5.0
+351,Female,DKI Jakarta,Non e-paylater user,"Diploma I, II, III",1978,Working,"Rp 5,000,001 - Rp 7,500,000",21% - 40%,3.75,1.0,1.5,4.25,3.8,3.4
+352,Female,West Sumatera,Non e-paylater user,Post Graduate,1994,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.0,1.0,1.0,1.5,3.6,3.4
+353,Female,West Sumatera,e-paylater user,Bachelor/Diploma IV,1995,Entrepreneur,"More than Rp 10,000,000",Less than 20%,3.25,3.5,3.3333333333333335,5.0,4.2,4.8
+354,Female,West Sumatera,Non e-paylater user,Post Graduate,1992,Working,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,3.25,3.25,2.8333333333333335,3.75,2.8,4.0
+355,Female,DKI Jakarta,Non e-paylater user,"Diploma I, II, III",1979,Students,"Less than Rp 1,000,000",41% - 60%,1.0,2.5,1.5,3.75,3.2,3.8
+356,Female,West Sumatera,Non e-paylater user,Post Graduate,1979,Working,"More than Rp 10,000,000",21% - 40%,2.0,1.25,1.3333333333333333,3.75,4.8,2.0
+357,Female,West Sumatera,Non e-paylater user,Until Senior High School,1980,Students,"Less than Rp 1,000,000",Less than 20%,4.25,2.0,2.0,3.5,2.6,4.8
+358,Female,West Sumatera,Non e-paylater user,Post Graduate,1979,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,1.5,1.0,2.0,3.25,3.0,3.8
+359,Female,West Sumatera,e-paylater user,Until Senior High School,1971,Students,"Less than Rp 1,000,000",41% - 60%,3.5,4.5,2.5,4.0,3.2,2.8
+360,Female,West Sumatera,e-paylater user,Bachelor/Diploma IV,1982,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,4.0,4.25,3.6666666666666665,3.75,3.2,3.4
+361,Female,West Sumatera,e-paylater user,Bachelor/Diploma IV,1975,Working,"Rp 5,000,001 - Rp 7,500,000",41% - 60%,3.5,4.0,4.666666666666667,3.0,3.2,2.8
+362,Male,West Sumatera,Non e-paylater user,Post Graduate,1984,Working,"More than Rp 10,000,000",Less than 20%,1.75,2.5,1.0,5.0,4.6,4.0
+363,Female,West Sumatera,Non e-paylater user,Until Senior High School,1988,Students,"Less than Rp 1,000,000",Less than 20%,2.5,1.5,2.8333333333333335,5.0,3.0,5.0
+364,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1979,Not Working,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.5,3.0,3.0,3.0,2.6,3.0
+365,Female,DKI Jakarta,Non e-paylater user,Until Senior High School,1978,Students,"Less than Rp 1,000,000",41% - 60%,4.0,4.0,3.3333333333333335,4.0,2.8,3.0
+366,Female,West Sumatera,Non e-paylater user,Until Senior High School,1977,Students,"Less than Rp 1,000,000",Less than 20%,4.0,1.0,3.0,3.0,3.2,3.6
+367,Female,West Sumatera,Non e-paylater user,Until Senior High School,1978,Students,"Less than Rp 1,000,000",21% - 40%,3.5,2.5,3.5,5.0,3.0,3.8
+368,Female,West Sumatera,e-paylater user,Post Graduate,1978,Working,"Rp 5,000,001 - Rp 7,500,000",41% - 60%,4.0,3.5,3.0,4.0,2.6,3.0
+369,Female,West Sumatera,Non e-paylater user,Until Senior High School,1997,Students,"Less than Rp 1,000,000",21% - 40%,3.25,1.0,1.0,4.0,2.8,2.6
+370,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2002,Working,"More than Rp 10,000,000",Less than 20%,3.25,3.0,3.0,3.0,3.6,4.0
+371,Male,North Sumatera,Non e-paylater user,Bachelor/Diploma IV,1996,Working,"More than Rp 10,000,000",Less than 20%,2.5,2.0,3.0,3.0,3.4,2.4
+372,Male,East Java,Non e-paylater user,Until Senior High School,1976,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,1.0,1.0,1.0,2.0,4.6,4.0
+373,Female,East Java,Non e-paylater user,Bachelor/Diploma IV,1979,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.0,2.0,2.0,4.0,4.0,5.0
+374,Male,North Sumatera,e-paylater user,Until Senior High School,1999,Students,"Less than Rp 1,000,000",41% - 60%,3.0,3.75,2.3333333333333335,3.75,2.4,3.0
+375,Male,Central Java,Non e-paylater user,Until Senior High School,1996,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.75,1.0,1.3333333333333333,3.5,4.0,3.6
+376,Male,East Java,e-paylater user,"Diploma I, II, III",1980,Students,"Less than Rp 1,000,000",Less than 20%,1.75,2.5,2.0,2.0,3.2,2.6
+377,Male,West Sumatera,Non e-paylater user,Until Senior High School,1989,Students,"Less than Rp 1,000,000",Less than 20%,2.0,3.25,2.3333333333333335,3.5,3.8,4.2
+378,Male,East Java,e-paylater user,Until Senior High School,1974,Students,"Less than Rp 1,000,000",Less than 20%,3.0,3.0,3.3333333333333335,3.0,2.2,4.0
+379,Female,West Sumatera,e-paylater user,Bachelor/Diploma IV,1979,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,3.0,1.0,2.0,4.0,3.0,2.2
+380,Female,East Java,Non e-paylater user,Bachelor/Diploma IV,1976,Students,"Rp 1,000,001 - Rp 2,500,000",41% - 60%,3.75,3.0,2.5,5.0,3.0,2.4
+381,Male,East Java,Non e-paylater user,Bachelor/Diploma IV,1976,Working,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.5,1.25,2.1666666666666665,3.0,3.4,2.4
+382,Male,East Java,Non e-paylater user,Bachelor/Diploma IV,1976,Working,"Rp 5,000,001 - Rp 7,500,000",21% - 40%,2.5,2.0,2.0,2.75,2.6,3.2
+383,Male,East Java,Non e-paylater user,Bachelor/Diploma IV,1974,Working,"More than Rp 10,000,000",Less than 20%,2.5,4.0,2.3333333333333335,3.0,3.8,3.4
+384,Female,Central Java,Non e-paylater user,Until Senior High School,1976,Students,"Less than Rp 1,000,000",Less than 20%,3.5,2.0,2.0,4.0,2.8,3.8
+385,Female,East Java,Non e-paylater user,Bachelor/Diploma IV,1975,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,3.75,3.5,1.0,5.0,1.8,3.2
+386,Female,DKI Jakarta,Non e-paylater user,Until Senior High School,1975,Students,"Less than Rp 1,000,000",Less than 20%,3.75,3.0,3.0,4.0,3.0,4.4
+387,Female,East Java,Non e-paylater user,Bachelor/Diploma IV,1974,Working,"More than Rp 10,000,000",Less than 20%,3.75,2.0,2.0,4.0,3.0,3.6
+388,Male,Riau,Non e-paylater user,Bachelor/Diploma IV,1993,Working,"More than Rp 10,000,000",Less than 20%,2.25,2.0,2.1666666666666665,2.75,4.0,4.0
+389,Male,Banten,Non e-paylater user,Until Senior High School,1974,Students,"Less than Rp 1,000,000",21% - 40%,2.5,3.5,3.1666666666666665,4.0,3.0,4.0
+390,Male,East Java,Non e-paylater user,Until Senior High School,1974,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,4.0,3.0,3.0,4.0,2.6,2.8
+391,Female,East Java,Non e-paylater user,Bachelor/Diploma IV,1973,Working,"More than Rp 10,000,000",21% - 40%,1.0,1.0,1.0,1.5,3.8,5.0
+392,Female,East Java,e-paylater user,Bachelor/Diploma IV,1995,Working,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,3.0,3.0,1.5,5.0,4.0,2.0
+393,Female,DKI Jakarta,Non e-paylater user,Bachelor/Diploma IV,1974,Working,"More than Rp 10,000,000",21% - 40%,3.25,3.0,3.0,3.0,3.0,3.2
+394,Female,West Java,Non e-paylater user,Post Graduate,1975,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.25,1.0,2.0,2.25,3.4,4.4
+395,Female,DKI Jakarta,Non e-paylater user,Until Senior High School,1976,Students,"Less than Rp 1,000,000",Less than 20%,3.5,3.0,3.1666666666666665,4.0,3.4,3.0
+396,Female,East Java,Non e-paylater user,Post Graduate,1977,Working,"Rp 2,500,001 - Rp 5,000,000",21% - 40%,1.75,1.0,1.0,3.0,4.0,3.0
+397,Female,Lampung,e-paylater user,Bachelor/Diploma IV,1976,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,4.0,4.25,3.6666666666666665,3.75,3.2,3.4
+398,Female,DKI Jakarta,Non e-paylater user,"Diploma I, II, III",1977,Students,"Less than Rp 1,000,000",21% - 40%,2.25,2.0,2.0,5.0,4.0,4.2
+399,Female,East Java,Non e-paylater user,Until Senior High School,1974,Students,"Less than Rp 1,000,000",Less than 20%,2.25,2.25,2.1666666666666665,4.0,3.4,3.2
+400,Female,West Sumatera,Non e-paylater user,Until Senior High School,1988,Students,"Rp 1,000,001 - Rp 2,500,000",41% - 60%,3.25,1.0,1.1666666666666667,4.0,3.0,2.6
+401,Female,East Java,e-paylater user,Until Senior High School,1975,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,3.5,4.0,3.3333333333333335,4.0,3.0,3.0
+402,Female,Riau,Non e-paylater user,Until Senior High School,1984,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,3.0,2.5,2.3333333333333335,3.5,2.8,4.0
+403,Female,West Java,Non e-paylater user,Post Graduate,1976,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.75,1.0,2.0,4.0,2.8,4.8
+404,Female,Kepulauan Riau,e-paylater user,"Diploma I, II, III",1976,Working,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,3.0,3.25,3.3333333333333335,4.0,3.4,5.0
+405,Female,North Sumatera,Non e-paylater user,Until Senior High School,1991,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,4.0,1.0,3.3333333333333335,3.75,2.8,4.4
+406,Female,West Sumatera,Non e-paylater user,Until Senior High School,1998,Students,"Less than Rp 1,000,000",Less than 20%,2.0,3.0,2.5,3.75,4.2,4.2
+407,Male,West Sumatera,Non e-paylater user,Until Senior High School,2003,Students,"Less than Rp 1,000,000",Less than 20%,2.0,2.0,2.0,4.0,3.2,3.4
+408,Female,West Sumatera,Non e-paylater user,Post Graduate,2002,Working,"Rp 2,500,001 - Rp 5,000,000",21% - 40%,1.25,1.0,1.0,3.0,2.4,4.4
+409,Female,West Sumatera,e-paylater user,Until Senior High School,2003,Students,"Less than Rp 1,000,000",Less than 20%,2.0,2.75,2.3333333333333335,3.25,3.2,2.8
+410,Female,Central Java,e-paylater user,Bachelor/Diploma IV,1976,Working,"Rp 5,000,001 - Rp 7,500,000",21% - 40%,3.25,3.25,3.1666666666666665,4.0,4.0,4.8
+411,Female,West Sumatera,Non e-paylater user,Post Graduate,2003,Working,"Rp 5,000,001 - Rp 7,500,000",21% - 40%,4.25,2.0,2.0,3.0,3.6,3.8
+412,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2002,Students,"Less than Rp 1,000,000",Less than 20%,1.75,3.5,3.0,4.0,3.6,4.4
+413,Female,West Sumatera,e-paylater user,"Diploma I, II, III",2004,Working,"Rp 2,500,001 - Rp 5,000,000",41% - 60%,4.25,4.0,3.5,5.0,2.4,2.6
+414,Male,West Sumatera,Non e-paylater user,Post Graduate,2003,Working,"More than Rp 10,000,000",41% - 60%,2.75,1.5,1.0,5.0,2.6,5.0
+415,Male,West Sumatera,Non e-paylater user,Until Senior High School,2003,Students,"Less than Rp 1,000,000",21% - 40%,3.75,1.0,2.0,4.0,2.8,3.8
+416,Female,West Sumatera,Non e-paylater user,Until Senior High School,2003,Students,"Less than Rp 1,000,000",Less than 20%,4.0,3.0,3.0,3.75,2.6,2.8
+417,Male,West Sumatera,Non e-paylater user,Until Senior High School,2003,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,2.0,2.0,2.1666666666666665,3.0,3.6,4.0
+418,Male,DKI Jakarta,Non e-paylater user,Until Senior High School,1976,Students,"Less than Rp 1,000,000",Less than 20%,3.0,1.0,1.0,3.25,3.6,2.4
+419,Male,West Sumatera,Non e-paylater user,Until Senior High School,2002,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,3.5,3.75,2.8333333333333335,4.0,2.8,3.2
+420,Male,West Sumatera,e-paylater user,Bachelor/Diploma IV,1997,Not Working,"Less than Rp 1,000,000",41% - 60%,3.25,3.0,3.0,4.0,3.4,3.8
+421,Male,West Sumatera,Non e-paylater user,Until Senior High School,1996,Students,"Less than Rp 1,000,000",21% - 40%,3.25,3.25,2.5,3.5,2.6,2.2
+422,Male,West Sumatera,Non e-paylater user,Until Senior High School,1979,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,2.0,2.25,1.1666666666666667,3.0,3.0,3.6
+423,Male,West Sumatera,Non e-paylater user,Until Senior High School,1984,Students,"Less than Rp 1,000,000",21% - 40%,2.0,1.75,2.3333333333333335,3.25,3.4,3.6
+424,Male,Riau,Non e-paylater user,Bachelor/Diploma IV,1997,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,3.5,2.0,2.5,2.5,3.8,2.8
+425,Male,West Sumatera,Non e-paylater user,Until Senior High School,1984,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,4.0,1.0,1.0,3.0,2.2,3.0
+426,Male,West Sumatera,e-paylater user,"Diploma I, II, III",2002,Students,"Rp 1,000,001 - Rp 2,500,000",41% - 60%,3.5,4.0,3.0,4.0,3.2,3.2
+427,Male,West Sumatera,e-paylater user,Post Graduate,2000,Working,"Rp 5,000,001 - Rp 7,500,000",21% - 40%,2.0,4.0,3.0,4.0,3.4,3.8
+428,Male,Central Java,e-paylater user,Bachelor/Diploma IV,1984,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,2.0,4.0,2.0,4.0,4.0,4.8
+429,Male,West Sumatera,e-paylater user,Post Graduate,1975,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,3.0,2.0,3.1666666666666665,4.0,3.2,2.2
+430,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1999,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,3.25,3.25,3.0,4.75,2.6,3.2
+431,Male,West Sumatera,Non e-paylater user,Until Senior High School,2003,Students,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.75,1.75,1.5,4.0,4.0,2.4
+432,Male,Riau,e-paylater user,Until Senior High School,2004,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,1.75,3.0,2.1666666666666665,2.0,2.8,4.0
+433,Male,West Sumatera,Non e-paylater user,Post Graduate,2004,Working,"More than Rp 10,000,000",Less than 20%,3.0,1.0,1.1666666666666667,1.75,4.0,4.8
+434,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2001,Not Working,"Less than Rp 1,000,000",21% - 40%,3.5,3.0,3.1666666666666665,3.0,3.0,3.0
+435,Female,West Sumatera,e-paylater user,Post Graduate,2000,Entrepreneur,"Rp 7,500,001 - Rp 10,000,000",41% - 60%,4.0,4.25,4.333333333333333,4.0,3.2,2.0
+436,Female,West Kalimantan,Non e-paylater user,Post Graduate,1978,Working,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,1.25,1.0,2.0,2.75,4.4,2.6
+437,Female,DKI Jakarta,Non e-paylater user,Post Graduate,2001,Working,"More than Rp 10,000,000",21% - 40%,1.0,1.0,1.0,5.0,2.8,4.0
+438,Female,West Sumatera,e-paylater user,Bachelor/Diploma IV,1991,Working,"More than Rp 10,000,000",61% - 80%,2.5,1.75,1.3333333333333333,3.75,4.2,2.8
+439,Female,South Sumatera,Non e-paylater user,"Diploma I, II, III",1999,Students,"Rp 2,500,001 - Rp 5,000,000",61% - 80%,4.0,1.5,1.0,4.5,2.6,3.2
+440,Female,South Sumatera,e-paylater user,Bachelor/Diploma IV,1998,Students,"Less than Rp 1,000,000",41% - 60%,3.5,1.5,1.1666666666666667,2.5,3.0,3.0
+441,Female,South Sumatera,Non e-paylater user,Until Senior High School,1999,Students,"Less than Rp 1,000,000",21% - 40%,3.5,1.0,1.1666666666666667,4.25,3.2,4.8
+442,Female,West Sumatera,e-paylater user,Bachelor/Diploma IV,1975,Working,"Less than Rp 1,000,000",Less than 20%,3.0,2.0,3.0,3.75,3.0,3.2
+443,Female,West Sumatera,Non e-paylater user,Post Graduate,2003,Working,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,2.0,2.0,2.0,2.0,3.6,3.2
+444,Female,West Sumatera,e-paylater user,Post Graduate,1985,Working,"Rp 5,000,001 - Rp 7,500,000",21% - 40%,3.0,2.75,2.5,4.0,3.8,2.2
+445,Male,West Kalimantan,Non e-paylater user,Until Senior High School,1984,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,2.25,3.25,1.6666666666666667,4.25,3.8,3.8
+446,Female,West Kalimantan,Non e-paylater user,Until Senior High School,2002,Students,"Less than Rp 1,000,000",21% - 40%,3.0,2.5,3.1666666666666665,4.0,3.2,2.2
+447,Female,West Kalimantan,e-paylater user,Bachelor/Diploma IV,2001,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,1.0,1.5,2.0,3.0,4.0,3.0
+448,Female,West Kalimantan,Non e-paylater user,Until Senior High School,2001,Students,"Less than Rp 1,000,000",21% - 40%,3.25,2.0,2.5,4.0,3.8,4.2
+449,Female,West Kalimantan,Non e-paylater user,Until Senior High School,2001,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,2.5,3.5,2.3333333333333335,2.5,3.0,3.6
+450,Female,West Kalimantan,Non e-paylater user,Bachelor/Diploma IV,2001,Students,"Less than Rp 1,000,000",Less than 20%,2.75,2.0,2.0,3.0,3.4,3.0
+451,Female,West Kalimantan,Non e-paylater user,Until Senior High School,2001,Students,"Less than Rp 1,000,000",Less than 20%,1.0,3.0,3.1666666666666665,3.0,2.6,3.0
+452,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1987,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,2.0,2.0,1.0,3.5,4.2,3.4
+453,Female,West Kalimantan,Non e-paylater user,"Diploma I, II, III",2001,Entrepreneur,"Less than Rp 1,000,000",Less than 20%,2.0,4.0,1.3333333333333333,3.25,2.6,2.2
+454,Female,West Kalimantan,Non e-paylater user,Until Senior High School,2001,Students,"Less than Rp 1,000,000",41% - 60%,1.0,1.0,1.0,1.0,3.4,2.6
+455,Female,West Kalimantan,Non e-paylater user,"Diploma I, II, III",2001,Students,"Less than Rp 1,000,000",21% - 40%,3.25,4.0,4.166666666666667,5.0,3.0,1.6
+456,Female,West Sumatera,Non e-paylater user,Until Senior High School,2004,Students,"Less than Rp 1,000,000",41% - 60%,3.25,2.0,2.0,5.0,2.8,3.6
+457,Female,DI Yogyakarta,Non e-paylater user,Until Senior High School,2000,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,2.0,2.0,2.0,3.0,4.0,2.8
+458,Female,Banten,e-paylater user,Bachelor/Diploma IV,1980,Working,"Rp 5,000,001 - Rp 7,500,000",41% - 60%,3.5,4.0,4.666666666666667,3.0,3.2,2.8
+459,Female,West Sumatera,Non e-paylater user,Until Senior High School,1996,Students,"Less than Rp 1,000,000",Less than 20%,2.25,1.0,1.1666666666666667,3.5,3.8,4.0
+460,Female,West Sumatera,Non e-paylater user,Until Senior High School,2001,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.5,1.0,1.3333333333333333,4.0,3.8,3.6
+461,Female,West Kalimantan,Non e-paylater user,Until Senior High School,2001,Students,"Less than Rp 1,000,000",21% - 40%,2.0,2.0,2.0,2.25,3.0,3.0
+462,Female,West Sumatera,Non e-paylater user,Until Senior High School,2003,Students,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.75,4.0,4.0,4.0,2.8,2.2
+463,Female,West Sumatera,Non e-paylater user,Until Senior High School,2003,Students,"Less than Rp 1,000,000",Less than 20%,2.5,3.0,2.8333333333333335,2.0,2.6,4.6
+464,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2005,Working,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.25,1.0,2.0,4.0,4.2,4.8
+465,Female,West Sumatera,Non e-paylater user,Post Graduate,2003,Working,"Rp 7,500,001 - Rp 10,000,000",21% - 40%,2.0,1.0,1.6666666666666667,3.0,3.4,3.6
+466,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2004,Working,"Rp 2,500,001 - Rp 5,000,000",21% - 40%,2.75,3.0,3.0,3.25,3.4,3.0
+467,Female,West Sumatera,Non e-paylater user,Until Senior High School,2004,Students,"Less than Rp 1,000,000",Less than 20%,3.0,1.0,1.5,5.0,3.0,4.2
+468,Female,West Sumatera,e-paylater user,Bachelor/Diploma IV,1992,Working,"Rp 5,000,001 - Rp 7,500,000",41% - 60%,3.5,4.0,4.666666666666667,3.0,3.2,2.8
+469,Female,West Sumatera,Non e-paylater user,Until Senior High School,1994,Students,"Less than Rp 1,000,000",Less than 20%,3.0,1.0,2.3333333333333335,4.0,3.6,4.0
+470,Female,West Sumatera,Non e-paylater user,"Diploma I, II, III",2004,Students,"Less than Rp 1,000,000",Less than 20%,3.75,4.0,3.6666666666666665,3.75,3.2,2.8
+471,Female,West Sumatera,Non e-paylater user,Until Senior High School,2003,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,3.0,3.0,2.0,3.25,3.2,4.0
+472,Female,West Sumatera,e-paylater user,Post Graduate,2004,Not Working,"More than Rp 10,000,000",21% - 40%,2.0,3.25,3.0,3.0,3.4,5.0
+473,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2004,Students,"Less than Rp 1,000,000",21% - 40%,3.25,3.0,2.8333333333333335,4.0,3.2,3.4
+474,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2003,Students,"Less than Rp 1,000,000",Less than 20%,3.25,1.75,3.0,5.0,2.8,2.0
+475,Female,West Sumatera,e-paylater user,Bachelor/Diploma IV,2003,Working,"Rp 7,500,001 - Rp 10,000,000",21% - 40%,3.25,3.75,1.8333333333333333,3.75,3.4,1.8
+476,Male,West Sumatera,Non e-paylater user,Until Senior High School,2003,Students,"Less than Rp 1,000,000",Less than 20%,3.0,1.0,1.0,1.0,3.4,1.0
+477,Female,Riau,Non e-paylater user,Post Graduate,1975,Working,"Rp 5,000,001 - Rp 7,500,000",21% - 40%,2.0,1.0,1.0,4.0,4.0,5.0
+478,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1970,Students,"Less than Rp 1,000,000",Less than 20%,2.25,3.0,3.0,3.75,3.2,3.6
+479,Male,DKI Jakarta,Non e-paylater user,Bachelor/Diploma IV,2001,Working,"More than Rp 10,000,000",Less than 20%,1.0,1.0,1.0,2.0,4.8,2.6
+480,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2002,Students,"Less than Rp 1,000,000",Less than 20%,3.0,3.0,3.0,3.75,2.8,3.0
+481,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2004,Working,"Rp 2,500,001 - Rp 5,000,000",21% - 40%,2.25,1.5,4.0,1.5,2.4,3.8
+482,Female,West Sumatera,e-paylater user,Bachelor/Diploma IV,1996,Working,"Rp 2,500,001 - Rp 5,000,000",21% - 40%,2.75,1.0,1.0,5.0,3.2,3.4
+483,Female,West Sumatera,Non e-paylater user,Post Graduate,2003,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,1.0,1.0,1.0,3.0,3.0,3.4
+484,Female,West Sumatera,Non e-paylater user,Until Senior High School,1995,Students,"Less than Rp 1,000,000",21% - 40%,2.5,3.25,3.3333333333333335,3.25,3.8,4.4
+485,Female,West Sumatera,Non e-paylater user,Until Senior High School,2002,Students,"Less than Rp 1,000,000",21% - 40%,3.75,1.0,2.3333333333333335,3.5,3.0,2.8
+486,Female,West Sumatera,e-paylater user,Bachelor/Diploma IV,2001,Working,"Rp 5,000,001 - Rp 7,500,000",21% - 40%,1.0,4.0,2.6666666666666665,4.0,5.0,4.6
+487,Female,West Java,Non e-paylater user,Bachelor/Diploma IV,1980,Working,"Less than Rp 1,000,000",21% - 40%,3.5,1.25,2.3333333333333335,3.5,2.8,2.8
+488,Female,DKI Jakarta,Non e-paylater user,Bachelor/Diploma IV,1997,Students,"Less than Rp 1,000,000",21% - 40%,3.0,2.25,2.3333333333333335,4.0,2.6,3.0
+489,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1981,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,3.0,2.0,2.0,4.0,3.2,3.4
+490,Female,DKI Jakarta,Non e-paylater user,Until Senior High School,2002,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.75,2.0,2.8333333333333335,4.0,3.0,3.2
+491,Female,Jambi,Non e-paylater user,Until Senior High School,1992,Students,"Less than Rp 1,000,000",Less than 20%,2.25,1.0,1.0,4.0,3.4,3.6
+492,Female,North Sumatera,e-paylater user,"Diploma I, II, III",2004,Working,"Rp 7,500,001 - Rp 10,000,000",21% - 40%,2.0,4.0,3.3333333333333335,4.0,3.4,3.8
+493,Female,West Sumatera,Non e-paylater user,Until Senior High School,2002,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.5,1.0,2.0,3.5,3.0,4.0
+494,Female,West Sumatera,Non e-paylater user,Post Graduate,2003,Working,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,2.5,1.0,1.0,3.75,3.2,4.2
+495,Female,West Sumatera,Non e-paylater user,"Diploma I, II, III",2004,Not Working,"More than Rp 10,000,000",Less than 20%,2.0,1.0,1.1666666666666667,2.5,2.4,3.8
+496,Male,West Sumatera,Non e-paylater user,Until Senior High School,2004,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.5,3.75,3.0,3.75,4.2,3.0
+497,Male,Central Java,Non e-paylater user,Post Graduate,1972,Working,"More than Rp 10,000,000",Less than 20%,3.25,2.25,1.0,4.0,4.0,3.6
+498,Female,Kepulauan Riau,Non e-paylater user,Bachelor/Diploma IV,1972,Working,"More than Rp 10,000,000",Less than 20%,1.0,1.0,1.0,2.0,4.0,4.4
+499,Female,West Sumatera,Non e-paylater user,Until Senior High School,1966,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,3.25,1.0,1.0,5.0,3.8,3.8
+500,Female,Central Java,Non e-paylater user,Until Senior High School,1977,Students,"Less than Rp 1,000,000",21% - 40%,3.0,4.0,1.5,4.0,3.0,3.8
+501,Female,West Sumatera,e-paylater user,Bachelor/Diploma IV,2004,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,3.25,4.0,3.0,5.0,2.0,2.2
+502,Male,West Sumatera,Non e-paylater user,Post Graduate,1991,Working,"More than Rp 10,000,000",41% - 60%,3.0,1.0,3.0,4.0,2.8,3.2
+503,Female,West Java,e-paylater user,Bachelor/Diploma IV,1978,Working,"Rp 7,500,001 - Rp 10,000,000",61% - 80%,1.0,4.75,1.0,2.0,5.0,3.8
+504,Female,West Sumatera,e-paylater user,Bachelor/Diploma IV,2004,Working,"Rp 7,500,001 - Rp 10,000,000",21% - 40%,3.0,4.0,2.6666666666666665,4.25,3.8,1.6
+505,Male,Central Java,Non e-paylater user,Post Graduate,1994,Working,"More than Rp 10,000,000",Less than 20%,1.5,1.0,1.1666666666666667,3.0,3.8,5.0
+506,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2004,Working,"More than Rp 10,000,000",21% - 40%,4.0,2.0,2.0,5.0,2.8,2.4
+507,Female,West Sumatera,Non e-paylater user,Post Graduate,2003,Working,"More than Rp 10,000,000",21% - 40%,2.0,1.0,2.0,3.0,4.0,4.0
+508,Female,West Sumatera,Non e-paylater user,Post Graduate,2003,Working,"Less than Rp 1,000,000",41% - 60%,3.5,4.0,4.0,4.0,3.0,3.0
+509,Female,Kepulauan Riau,Non e-paylater user,Bachelor/Diploma IV,2003,Students,"Less than Rp 1,000,000",21% - 40%,3.25,2.0,2.1666666666666665,4.0,3.6,3.8
+510,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2002,Working,"More than Rp 10,000,000",Less than 20%,4.0,1.0,1.3333333333333333,4.0,2.4,3.8
+511,Female,West Sumatera,Non e-paylater user,Post Graduate,1990,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,1.0,1.0,1.0,2.0,4.6,5.0
+512,Female,Kepulauan Riau,Non e-paylater user,Until Senior High School,2003,Students,"Less than Rp 1,000,000",Less than 20%,4.0,4.0,4.0,4.0,2.8,4.0
+513,Female,Kepulauan Riau,Non e-paylater user,Bachelor/Diploma IV,2003,Working,"Rp 2,500,001 - Rp 5,000,000",21% - 40%,1.75,1.0,2.0,3.25,3.6,2.0
+514,Female,Kepulauan Riau,Non e-paylater user,Until Senior High School,2003,Students,"Less than Rp 1,000,000",21% - 40%,4.0,4.0,3.1666666666666665,4.0,3.8,3.2
+515,Female,Kepulauan Riau,Non e-paylater user,Post Graduate,2002,Not Working,"Less than Rp 1,000,000",21% - 40%,3.25,2.0,1.8333333333333333,4.0,2.0,2.8
+516,Female,Jambi,Non e-paylater user,Until Senior High School,2004,Students,"Less than Rp 1,000,000",Less than 20%,3.0,2.0,3.0,4.0,2.8,2.0
+517,Male,West Sumatera,Non e-paylater user,Until Senior High School,2004,Students,"Less than Rp 1,000,000",Less than 20%,2.5,3.0,2.0,3.25,2.8,3.4
+518,Female,West Sumatera,Non e-paylater user,Until Senior High School,1999,Students,"Less than Rp 1,000,000",Less than 20%,3.0,2.0,2.0,4.0,3.2,4.0
+519,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2003,Working,"More than Rp 10,000,000",Less than 20%,2.75,2.0,2.0,3.25,3.2,3.0
+520,Female,East Nusa Tenggara,e-paylater user,Post Graduate,2001,Working,"More than Rp 10,000,000",Less than 20%,2.75,3.75,2.3333333333333335,2.0,2.6,5.0
+521,Female,Riau,Non e-paylater user,Until Senior High School,1996,Students,"Less than Rp 1,000,000",21% - 40%,3.75,3.0,3.1666666666666665,4.0,3.4,3.2
+522,Female,Central Java,Non e-paylater user,"Diploma I, II, III",1986,Students,"Less than Rp 1,000,000",Less than 20%,3.75,4.0,3.6666666666666665,3.75,3.2,2.8
+523,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1980,Entrepreneur,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,2.0,1.0,1.0,3.75,3.6,4.4
+524,Female,East Java,Non e-paylater user,Until Senior High School,2004,Students,"Less than Rp 1,000,000",21% - 40%,4.0,4.25,4.166666666666667,4.25,2.8,4.6
+525,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2003,Working,"More than Rp 10,000,000",Less than 20%,3.75,2.0,2.0,3.5,4.0,3.0
+526,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2002,Not Working,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,2.0,1.0,1.0,4.0,3.8,3.6
+527,Female,West Sumatera,Non e-paylater user,Post Graduate,2003,Working,"Rp 2,500,001 - Rp 5,000,000",21% - 40%,4.0,1.0,1.0,5.0,4.0,3.0
+528,Female,West Sumatera,Non e-paylater user,Until Senior High School,2003,Students,"Less than Rp 1,000,000",Less than 20%,1.25,1.0,1.0,3.0,3.8,4.6
+529,Female,Riau,Non e-paylater user,Post Graduate,2003,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,2.0,1.0,1.0,4.0,3.2,1.8
+530,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1999,Students,"Less than Rp 1,000,000",21% - 40%,2.5,2.0,2.1666666666666665,4.0,4.2,2.6
+531,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1978,Entrepreneur,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,3.0,1.75,1.3333333333333333,3.0,3.6,4.0
+532,Female,Central Java,e-paylater user,Until Senior High School,1981,Students,"Less than Rp 1,000,000",Less than 20%,3.25,2.0,2.0,2.25,3.4,2.4
+533,Female,Central Java,e-paylater user,Until Senior High School,1980,Students,"Rp 2,500,001 - Rp 5,000,000",41% - 60%,2.75,3.75,3.1666666666666665,4.0,4.4,3.4
+534,Female,DKI Jakarta,e-paylater user,Until Senior High School,1997,Students,"Less than Rp 1,000,000",21% - 40%,3.75,3.5,2.8333333333333335,4.0,3.4,3.0
+535,Female,West Sumatera,Non e-paylater user,"Diploma I, II, III",1993,Students,"Less than Rp 1,000,000",Less than 20%,3.75,4.0,3.6666666666666665,3.75,3.2,2.8
+536,Female,West Sumatera,Non e-paylater user,Until Senior High School,2003,Students,"Less than Rp 1,000,000",Less than 20%,1.25,1.0,1.0,4.5,3.8,2.0
+537,Female,West Sumatera,e-paylater user,Bachelor/Diploma IV,1971,Not Working,"Less than Rp 1,000,000",Less than 20%,2.0,3.5,2.6666666666666665,3.5,3.0,4.6
+538,Female,West Sumatera,Non e-paylater user,Until Senior High School,2003,Students,"Less than Rp 1,000,000",Less than 20%,2.75,1.0,1.3333333333333333,3.25,3.4,3.6
+539,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1992,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.25,4.0,3.8333333333333335,3.0,3.0,3.0
+540,Female,West Sumatera,e-paylater user,Bachelor/Diploma IV,2004,Working,"More than Rp 10,000,000",Less than 20%,2.0,3.5,2.6666666666666665,2.0,4.4,3.4
+541,Male,Kepulauan Riau,Non e-paylater user,Bachelor/Diploma IV,2002,Working,"More than Rp 10,000,000",Less than 20%,2.0,1.5,1.0,2.5,4.0,4.0
+542,Female,West Sumatera,Non e-paylater user,Until Senior High School,1994,Students,"Less than Rp 1,000,000",Less than 20%,1.25,2.75,2.5,3.25,4.0,3.6
+543,Male,Central Java,Non e-paylater user,Until Senior High School,1983,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,1.75,2.0,2.0,4.0,3.4,4.8
+544,Female,West Sumatera,Non e-paylater user,"Diploma I, II, III",1983,Working,"Rp 2,500,001 - Rp 5,000,000",21% - 40%,2.0,2.0,2.0,3.0,3.2,4.0
+545,Male,East Kalimantan,Non e-paylater user,Until Senior High School,1985,Students,"Less than Rp 1,000,000",Less than 20%,4.0,3.0,3.0,4.0,2.8,4.0
+546,Female,South Sumatera,Non e-paylater user,Until Senior High School,1994,Students,"Less than Rp 1,000,000",Less than 20%,3.25,1.0,1.1666666666666667,3.0,3.4,3.8
+547,Male,Banten,Non e-paylater user,Post Graduate,1984,Working,"More than Rp 10,000,000",Less than 20%,3.0,1.0,1.0,3.25,3.8,3.0
+548,Female,Riau,Non e-paylater user,Until Senior High School,1980,Students,"Less than Rp 1,000,000",Less than 20%,1.25,1.0,1.0,2.0,3.4,3.4
+549,Female,Banten,Non e-paylater user,Bachelor/Diploma IV,1986,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,3.25,1.0,1.1666666666666667,1.0,4.0,2.8
+550,Female,North Sumatera,Non e-paylater user,Until Senior High School,1981,Working,"Rp 2,500,001 - Rp 5,000,000",21% - 40%,3.0,2.5,2.0,4.0,2.8,3.0
+551,Female,DKI Jakarta,Non e-paylater user,Until Senior High School,1980,Students,"Less than Rp 1,000,000",Less than 20%,3.25,2.0,2.0,3.0,3.2,3.0
+552,Male,West Java,e-paylater user,Until Senior High School,1973,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,2.5,3.75,3.1666666666666665,4.0,2.6,3.2
+553,Male,Riau,e-paylater user,Until Senior High School,1981,Students,"Less than Rp 1,000,000",Less than 20%,1.75,3.5,2.0,4.0,3.2,3.4
+554,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2004,Working,"More than Rp 10,000,000",Less than 20%,2.0,2.0,2.0,3.0,2.8,3.0
+555,Female,West Nusa Tenggara,Non e-paylater user,Bachelor/Diploma IV,1977,Working,"More than Rp 10,000,000",21% - 40%,1.5,2.0,2.1666666666666665,3.25,4.0,4.6
+556,Male,DKI Jakarta,e-paylater user,Bachelor/Diploma IV,1982,Working,"Rp 2,500,001 - Rp 5,000,000",21% - 40%,4.25,3.0,3.0,4.0,3.0,4.0
+557,Male,Provinsi South Sulawesi,e-paylater user,Post Graduate,1989,Working,"More than Rp 10,000,000",21% - 40%,3.0,4.25,4.0,4.0,2.8,2.0
+558,Female,DKI Jakarta,e-paylater user,Until Senior High School,1981,Students,"Less than Rp 1,000,000",41% - 60%,3.0,3.0,2.0,3.0,2.8,2.0
+559,Male,West Kalimantan,Non e-paylater user,Bachelor/Diploma IV,1981,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,3.0,2.0,2.6666666666666665,3.25,3.2,2.2
+560,Male,West Kalimantan,e-paylater user,Bachelor/Diploma IV,1985,Entrepreneur,"More than Rp 10,000,000",21% - 40%,4.25,2.0,3.5,2.25,2.0,3.4
+561,Male,West Java,Non e-paylater user,Bachelor/Diploma IV,1980,Students,"Less than Rp 1,000,000",21% - 40%,2.25,2.5,2.5,2.5,3.0,3.0
+562,Male,East Java,e-paylater user,Until Senior High School,1993,Students,"Less than Rp 1,000,000",21% - 40%,2.5,2.25,2.5,2.25,3.2,3.2
+563,Female,DKI Jakarta,e-paylater user,Until Senior High School,1982,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,4.25,3.0,3.0,4.0,3.8,4.4
+564,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2003,Working,"More than Rp 10,000,000",21% - 40%,3.0,3.0,3.0,3.0,3.0,3.0
+565,Female,West Java,e-paylater user,Bachelor/Diploma IV,1982,Working,"More than Rp 10,000,000",Less than 20%,3.25,3.5,3.6666666666666665,3.75,3.2,3.0
+566,Male,East Kalimantan,Non e-paylater user,Post Graduate,1972,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,1.25,1.0,1.0,4.0,2.6,2.0
+567,Female,Provinsi South Sulawesi,Non e-paylater user,Bachelor/Diploma IV,1995,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,2.0,1.0,1.3333333333333333,2.5,3.8,1.8
+568,Female,East Java,Non e-paylater user,Bachelor/Diploma IV,1991,Not Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.0,3.0,1.8333333333333333,4.75,4.0,4.0
+569,Female,West Java,Non e-paylater user,Post Graduate,1992,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,3.25,2.0,2.0,3.0,2.8,4.0
+570,Female,West Sumatera,Non e-paylater user,Post Graduate,2004,Working,"Rp 5,000,001 - Rp 7,500,000",21% - 40%,3.0,2.5,2.3333333333333335,4.25,3.6,2.4
+571,Female,Banten,Non e-paylater user,Until Senior High School,1986,Students,"Less than Rp 1,000,000",Less than 20%,2.5,2.0,2.6666666666666665,4.0,3.4,2.4
+572,Female,Provinsi South Sulawesi,Non e-paylater user,Post Graduate,1968,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,4.0,3.0,3.0,4.0,2.8,4.0
+573,Female,Papua,Non e-paylater user,Bachelor/Diploma IV,1986,Working,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,2.5,1.0,2.0,2.0,4.0,4.2
+574,Female,Papua,Non e-paylater user,Until Senior High School,1983,Students,"Less than Rp 1,000,000",Less than 20%,3.5,3.75,3.0,3.0,3.4,3.2
+575,Male,Provinsi South Sulawesi,e-paylater user,Post Graduate,1990,Entrepreneur,"Rp 7,500,001 - Rp 10,000,000",41% - 60%,4.0,4.25,4.333333333333333,4.0,3.2,2.0
+576,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2004,Working,"Rp 7,500,001 - Rp 10,000,000",21% - 40%,4.0,2.0,2.0,3.75,3.0,4.8
+577,Male,West Sumatera,Non e-paylater user,Until Senior High School,2003,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,2.75,1.0,1.3333333333333333,4.0,3.6,4.0
+578,Female,West Java,Non e-paylater user,Until Senior High School,1995,Students,"Less than Rp 1,000,000",Less than 20%,1.25,1.0,1.0,4.0,4.2,4.6
+579,Male,West Java,Non e-paylater user,Bachelor/Diploma IV,1980,Working,"More than Rp 10,000,000",Less than 20%,2.75,1.25,2.6666666666666665,3.0,3.0,4.6
+580,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1998,Students,"Less than Rp 1,000,000",Less than 20%,3.25,2.0,3.0,4.0,3.4,3.8
+581,Female,West Sumatera,Non e-paylater user,Until Senior High School,1998,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,3.0,3.0,1.8333333333333333,4.25,3.6,2.0
+582,Female,West Nusa Tenggara,e-paylater user,Until Senior High School,1976,Working,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,3.0,3.0,3.0,3.75,3.2,3.2
+583,Male,East Java,e-paylater user,Bachelor/Diploma IV,1998,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,4.0,4.25,3.6666666666666665,3.75,3.2,3.4
+584,Male,East Kalimantan,Non e-paylater user,Bachelor/Diploma IV,1984,Working,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.25,3.5,2.3333333333333335,3.0,3.8,5.0
+585,Male,East Kalimantan,Non e-paylater user,Until Senior High School,1972,Working,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.75,2.0,2.0,3.5,4.0,4.0
+586,Male,East Kalimantan,Non e-paylater user,Bachelor/Diploma IV,1982,Entrepreneur,"More than Rp 10,000,000",Less than 20%,2.0,2.0,2.0,3.75,4.0,3.2
+587,Female,East Kalimantan,Non e-paylater user,Post Graduate,1968,Working,"Rp 7,500,001 - Rp 10,000,000",61% - 80%,4.0,2.0,2.0,4.0,3.2,3.6
+588,Female,East Kalimantan,Non e-paylater user,Post Graduate,1972,Working,"More than Rp 10,000,000",Less than 20%,2.0,2.0,2.0,3.0,4.0,3.6
+589,Male,East Kalimantan,Non e-paylater user,Bachelor/Diploma IV,1987,Working,"More than Rp 10,000,000",Less than 20%,1.5,1.0,3.3333333333333335,3.0,4.0,4.4
+590,Female,East Java,Non e-paylater user,Until Senior High School,1996,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.0,3.5,2.1666666666666665,3.25,3.4,3.8
+591,Female,East Kalimantan,Non e-paylater user,Until Senior High School,1969,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,3.25,3.75,3.5,4.75,3.2,4.0
+592,Female,East Kalimantan,Non e-paylater user,Until Senior High School,1991,Working,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,2.5,2.0,1.8333333333333333,4.0,2.8,3.4
+593,Female,East Kalimantan,e-paylater user,Until Senior High School,1970,Students,"Less than Rp 1,000,000",Less than 20%,3.5,4.0,2.5,4.0,4.0,4.4
+594,Female,DKI Jakarta,e-paylater user,Until Senior High School,1978,Students,"Less than Rp 1,000,000",21% - 40%,3.5,2.25,3.1666666666666665,3.0,2.0,3.4
+595,Male,East Kalimantan,Non e-paylater user,Until Senior High School,1991,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,1.0,1.0,1.0,3.0,2.8,5.0
+596,Female,East Kalimantan,Non e-paylater user,Until Senior High School,1991,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.25,3.0,3.0,4.0,2.4,3.4
+597,Female,East Kalimantan,Non e-paylater user,Post Graduate,1982,Working,"Rp 2,500,001 - Rp 5,000,000",21% - 40%,2.0,3.5,2.5,4.0,3.6,1.8
+598,Female,East Kalimantan,Non e-paylater user,Until Senior High School,1987,Students,"Less than Rp 1,000,000",Less than 20%,3.0,3.0,3.0,3.0,2.8,3.0
+599,Female,East Kalimantan,e-paylater user,Until Senior High School,1977,Students,"Less than Rp 1,000,000",Less than 20%,3.75,4.0,2.0,4.0,3.2,3.0
+600,Female,West Sumatera,Non e-paylater user,"Diploma I, II, III",2004,Students,"Less than Rp 1,000,000",Less than 20%,3.25,2.0,2.0,4.0,3.2,4.6
+601,Female,West Sumatera,e-paylater user,Until Senior High School,2003,Students,"Less than Rp 1,000,000",Less than 20%,4.0,4.0,4.0,4.0,2.8,5.0
+602,Female,East Kalimantan,Non e-paylater user,Post Graduate,1972,Working,"More than Rp 10,000,000",Less than 20%,2.0,1.0,1.5,4.0,3.6,1.6
+603,Female,West Sumatera,Non e-paylater user,Until Senior High School,2003,Students,"Less than Rp 1,000,000",Less than 20%,3.25,2.0,2.0,4.0,3.8,3.4
+604,Female,West Sumatera,Non e-paylater user,Until Senior High School,2002,Students,"Less than Rp 1,000,000",21% - 40%,2.5,2.0,2.0,4.0,3.4,2.6
+605,Female,West Sumatera,e-paylater user,Bachelor/Diploma IV,1998,Working,"Rp 2,500,001 - Rp 5,000,000",21% - 40%,3.5,4.0,4.0,4.0,2.8,5.0
+606,Female,West Sumatera,Non e-paylater user,Post Graduate,2002,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.0,1.0,1.5,3.5,3.6,3.6
+607,Female,West Sumatera,Non e-paylater user,Until Senior High School,2003,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,3.0,3.5,3.1666666666666665,3.75,3.4,2.0
+608,Female,West Sumatera,Non e-paylater user,Post Graduate,2002,Working,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,2.75,2.0,2.0,3.5,3.4,3.0
+609,Female,West Sumatera,e-paylater user,Until Senior High School,2002,Students,"Less than Rp 1,000,000",Less than 20%,3.0,3.5,3.1666666666666665,2.75,3.0,2.4
+610,Female,Bengkulu,Non e-paylater user,Post Graduate,2003,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,2.25,1.0,1.0,4.0,4.0,4.6
+611,Female,West Sumatera,Non e-paylater user,Until Senior High School,2005,Students,"Less than Rp 1,000,000",Less than 20%,2.75,3.0,3.0,4.0,3.2,3.4
+612,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2003,Not Working,"More than Rp 10,000,000",21% - 40%,2.75,1.0,1.0,2.75,3.4,3.4
+613,Female,West Sumatera,Non e-paylater user,Until Senior High School,2003,Students,"Less than Rp 1,000,000",Less than 20%,2.75,1.0,2.0,3.5,2.6,3.6
+614,Female,West Sumatera,Non e-paylater user,Until Senior High School,2004,Students,"Rp 1,000,001 - Rp 2,500,000",41% - 60%,2.5,3.5,2.0,5.0,3.4,2.4
+615,Female,West Sumatera,Non e-paylater user,Until Senior High School,2000,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,3.25,3.5,3.1666666666666665,4.0,3.4,2.4
+616,Female,Provinsi South Sulawesi,Non e-paylater user,Until Senior High School,1992,Students,"Less than Rp 1,000,000",Less than 20%,4.0,4.0,3.6666666666666665,3.0,2.8,3.0
+617,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2003,Students,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,3.0,1.0,1.0,5.0,3.6,3.0
+618,Female,West Sumatera,Non e-paylater user,Post Graduate,2001,Entrepreneur,"Rp 2,500,001 - Rp 5,000,000",21% - 40%,1.75,1.0,1.5,3.0,3.2,2.2
+619,Female,West Sumatera,Non e-paylater user,Post Graduate,1989,Working,"Rp 2,500,001 - Rp 5,000,000",21% - 40%,3.0,1.0,2.0,3.0,4.2,3.8
+620,Female,DKI Jakarta,Non e-paylater user,Post Graduate,1991,Working,"More than Rp 10,000,000",Less than 20%,2.5,2.0,2.5,4.0,3.8,4.4
+621,Female,Central Java,Non e-paylater user,Until Senior High School,1988,Students,"Less than Rp 1,000,000",41% - 60%,2.75,3.0,2.8333333333333335,4.25,3.2,4.0
+622,Female,North Sumatera,Non e-paylater user,Until Senior High School,2001,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.0,2.0,2.0,4.0,3.6,4.2
+623,Female,North Sumatera,Non e-paylater user,Until Senior High School,2001,Students,"Less than Rp 1,000,000",Less than 20%,4.0,3.5,3.0,4.0,2.8,3.0
+624,Female,North Sumatera,Non e-paylater user,Until Senior High School,2002,Students,"Less than Rp 1,000,000",Less than 20%,1.25,1.0,3.0,5.0,3.2,5.0
+625,Female,North Sumatera,Non e-paylater user,Post Graduate,2001,Working,"More than Rp 10,000,000",Less than 20%,3.25,1.0,1.0,2.0,5.0,1.0
+626,Male,North Sumatera,Non e-paylater user,Bachelor/Diploma IV,2003,Entrepreneur,"Rp 2,500,001 - Rp 5,000,000",21% - 40%,3.75,2.0,2.0,4.0,3.4,2.0
+627,Female,North Sumatera,Non e-paylater user,Post Graduate,2000,Working,"More than Rp 10,000,000",Less than 20%,2.25,2.0,3.3333333333333335,3.0,3.0,3.2
+628,Female,North Sumatera,Non e-paylater user,Post Graduate,2002,Working,"Rp 7,500,001 - Rp 10,000,000",41% - 60%,4.0,1.0,2.0,4.0,2.6,3.0
+629,Male,North Sumatera,e-paylater user,Post Graduate,2002,Entrepreneur,"More than Rp 10,000,000",21% - 40%,3.75,4.5,4.5,4.5,2.8,3.2
+630,Female,Sulawesi Tengah,e-paylater user,Bachelor/Diploma IV,1986,Students,"Less than Rp 1,000,000",61% - 80%,4.0,4.0,4.0,4.0,2.8,3.0
+631,Female,West Sumatera,e-paylater user,Bachelor/Diploma IV,2003,Students,"Less than Rp 1,000,000",Less than 20%,3.5,2.0,2.0,4.0,2.8,3.2
+632,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2002,Students,"Less than Rp 1,000,000",Less than 20%,2.25,2.0,2.0,3.0,3.8,2.8
+633,Female,West Sumatera,e-paylater user,Bachelor/Diploma IV,2002,Working,"More than Rp 10,000,000",21% - 40%,1.75,3.0,2.5,4.0,4.0,5.0
+634,Female,West Sumatera,Non e-paylater user,Post Graduate,2002,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,3.75,1.0,1.0,3.5,2.4,4.0
+635,Female,Riau,Non e-paylater user,Until Senior High School,2003,Working,"Less than Rp 1,000,000",Less than 20%,3.0,1.5,1.1666666666666667,4.0,3.0,2.6
+636,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2001,Working,"More than Rp 10,000,000",Less than 20%,2.75,2.0,2.0,3.0,3.2,3.0
+637,Male,Riau,Non e-paylater user,Post Graduate,2003,Students,"More than Rp 10,000,000",Less than 20%,5.0,4.0,4.0,3.0,2.8,3.0
+638,Female,West Sumatera,Non e-paylater user,Post Graduate,2003,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,3.0,1.0,2.0,3.25,3.6,1.0
+639,Female,Riau,e-paylater user,Bachelor/Diploma IV,2003,Working,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,1.0,2.5,1.6666666666666667,3.5,4.8,4.4
+640,Female,Riau,Non e-paylater user,Until Senior High School,2005,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,3.0,2.0,3.0,4.0,3.2,3.6
+641,Female,West Sumatera,Non e-paylater user,Until Senior High School,2001,Students,"Less than Rp 1,000,000",21% - 40%,2.5,1.0,2.0,4.0,3.4,3.0
+642,Female,West Sumatera,Non e-paylater user,"Diploma I, II, III",2001,Students,"Less than Rp 1,000,000",Less than 20%,3.75,3.0,3.0,4.0,2.8,3.2
+643,Male,West Sumatera,Non e-paylater user,"Diploma I, II, III",2000,Students,"Rp 1,000,001 - Rp 2,500,000",41% - 60%,3.0,1.0,1.0,4.0,3.2,5.0
+644,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2002,Working,"More than Rp 10,000,000",Less than 20%,1.0,1.0,1.0,4.75,3.4,5.0
+645,Female,Riau,Non e-paylater user,Bachelor/Diploma IV,2001,Working,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,2.0,1.0,1.0,3.25,3.8,2.4
+646,Female,North Sumatera,Non e-paylater user,Until Senior High School,2002,Students,"Less than Rp 1,000,000",Less than 20%,2.75,2.0,2.3333333333333335,3.5,3.4,3.8
+647,Female,Banten,e-paylater user,Until Senior High School,2002,Students,"Less than Rp 1,000,000",21% - 40%,2.75,3.75,3.3333333333333335,4.0,3.2,4.2
+648,Female,East Java,Non e-paylater user,Bachelor/Diploma IV,2002,Not Working,"Less than Rp 1,000,000",Less than 20%,2.75,3.0,2.0,3.0,2.8,3.6
+649,Female,Lampung,Non e-paylater user,"Diploma I, II, III",1979,Students,"Less than Rp 1,000,000",Less than 20%,2.5,2.0,1.8333333333333333,2.75,3.6,4.4
+650,Female,West Sumatera,Non e-paylater user,Until Senior High School,2002,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.75,1.0,1.3333333333333333,4.25,3.0,2.0
+651,Male,West Sumatera,Non e-paylater user,"Diploma I, II, III",2000,Working,"More than Rp 10,000,000",Less than 20%,3.25,4.0,4.0,4.0,3.6,3.0
+652,Male,West Sumatera,Non e-paylater user,Post Graduate,2000,Working,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,2.25,2.0,1.6666666666666667,3.25,3.4,2.4
+653,Female,West Sumatera,Non e-paylater user,Until Senior High School,2000,Students,"Less than Rp 1,000,000",Less than 20%,2.5,2.0,2.6666666666666665,4.0,3.6,3.8
+654,Female,West Sumatera,Non e-paylater user,Until Senior High School,2000,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,3.5,1.0,1.3333333333333333,4.0,4.0,1.4
+655,Female,West Sumatera,e-paylater user,"Diploma I, II, III",2000,Students,"Rp 1,000,001 - Rp 2,500,000",61% - 80%,4.0,3.0,3.1666666666666665,5.0,2.6,3.2
+656,Female,West Sumatera,e-paylater user,Until Senior High School,2000,Students,"Less than Rp 1,000,000",21% - 40%,3.0,4.75,3.5,4.0,2.6,3.0
+657,Female,West Sumatera,Non e-paylater user,Until Senior High School,2000,Students,"Rp 1,000,001 - Rp 2,500,000",41% - 60%,2.0,2.0,2.0,3.0,2.8,3.6
+658,Female,West Sumatera,Non e-paylater user,Until Senior High School,1997,Students,"Less than Rp 1,000,000",Less than 20%,4.0,2.0,3.0,4.5,3.2,3.4
+659,Female,West Sumatera,e-paylater user,Bachelor/Diploma IV,2002,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,2.0,2.5,2.3333333333333335,3.0,3.6,3.6
+660,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1998,Students,"Less than Rp 1,000,000",More than 100%,3.5,3.5,3.0,3.0,2.8,3.0
+661,Female,West Sumatera,e-paylater user,Until Senior High School,2002,Students,"Less than Rp 1,000,000",Less than 20%,3.25,3.5,3.0,4.0,2.4,3.6
+662,Female,West Java,Non e-paylater user,Bachelor/Diploma IV,2000,Working,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.0,3.0,2.1666666666666665,4.0,4.0,4.8
+663,Female,West Sumatera,Non e-paylater user,Until Senior High School,2000,Students,"Less than Rp 1,000,000",21% - 40%,2.5,1.0,2.8333333333333335,4.0,2.4,4.6
+664,Female,West Sumatera,e-paylater user,Until Senior High School,2002,Students,"Less than Rp 1,000,000",Less than 20%,1.0,4.0,3.8333333333333335,4.0,3.4,2.0
+665,Female,West Sumatera,Non e-paylater user,Post Graduate,2000,Working,"More than Rp 10,000,000",Less than 20%,1.0,1.0,1.0,3.5,3.4,5.0
+666,Female,West Sumatera,e-paylater user,Until Senior High School,2002,Students,"Less than Rp 1,000,000",Less than 20%,3.0,3.0,3.0,3.0,3.0,3.2
+667,Male,West Sumatera,e-paylater user,Post Graduate,2001,Entrepreneur,"More than Rp 10,000,000",21% - 40%,3.75,4.5,4.5,4.5,2.8,3.2
+668,Female,West Sumatera,Non e-paylater user,Until Senior High School,1999,Students,"Less than Rp 1,000,000",41% - 60%,3.5,1.0,1.0,4.25,3.0,4.4
+669,Female,West Sumatera,Non e-paylater user,"Diploma I, II, III",2000,Students,"Less than Rp 1,000,000",21% - 40%,4.0,4.0,5.0,4.0,2.6,2.8
+670,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2000,Working,"More than Rp 10,000,000",21% - 40%,2.75,3.0,3.0,4.0,2.8,3.4
+671,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2000,Entrepreneur,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,4.0,1.0,2.1666666666666665,4.0,3.0,4.0
+672,Female,Lampung,Non e-paylater user,Bachelor/Diploma IV,1999,Working,"Rp 7,500,001 - Rp 10,000,000",21% - 40%,1.5,1.0,1.0,2.25,2.8,3.6
+673,Female,South Sumatera,Non e-paylater user,"Diploma I, II, III",1998,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,2.5,1.0,1.5,3.75,2.8,3.0
+674,Female,Lampung,e-paylater user,Bachelor/Diploma IV,1997,Working,"More than Rp 10,000,000",Less than 20%,3.75,4.0,4.0,4.0,2.4,4.4
+675,Female,South Sumatera,Non e-paylater user,Post Graduate,1996,Working,"Rp 5,000,001 - Rp 7,500,000",41% - 60%,2.0,2.0,1.6666666666666667,4.0,3.2,2.8
+676,Female,Lampung,Non e-paylater user,Until Senior High School,1995,Students,"Less than Rp 1,000,000",Less than 20%,2.25,1.5,2.0,4.0,2.6,3.6
+677,Male,South Sumatera,Non e-paylater user,Until Senior High School,1994,Students,"Rp 1,000,001 - Rp 2,500,000",21% - 40%,3.0,3.0,2.1666666666666665,4.0,3.6,3.6
+678,Female,Lampung,Non e-paylater user,Until Senior High School,1999,Students,"Rp 1,000,001 - Rp 2,500,000",41% - 60%,3.25,2.0,2.0,4.0,3.6,3.2
+679,Female,South Sumatera,Non e-paylater user,"Diploma I, II, III",1998,Students,"Rp 1,000,001 - Rp 2,500,000",41% - 60%,4.5,2.0,1.0,4.0,2.4,3.2
+680,Male,Lampung,e-paylater user,Bachelor/Diploma IV,1997,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,3.0,3.25,3.0,3.0,2.8,5.0
+681,Male,South Sumatera,Non e-paylater user,Until Senior High School,1996,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.5,1.0,1.0,3.0,3.2,3.2
+682,Female,Lampung,Non e-paylater user,Until Senior High School,1995,Students,"Less than Rp 1,000,000",Less than 20%,2.5,4.5,3.1666666666666665,4.25,4.8,1.0
+683,Female,South Sumatera,Non e-paylater user,Post Graduate,1994,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.0,1.0,1.0,3.75,3.6,4.0
+684,Female,Lampung,Non e-paylater user,Until Senior High School,1999,Students,"Less than Rp 1,000,000",Less than 20%,1.0,1.0,1.0,4.0,5.0,3.8
+685,Female,South Sumatera,Non e-paylater user,Post Graduate,1998,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,2.25,1.75,2.5,3.5,3.2,3.2
+686,Female,Lampung,Non e-paylater user,Until Senior High School,1997,Students,"Less than Rp 1,000,000",Less than 20%,3.25,1.0,2.0,1.0,3.4,3.0
+687,Female,South Sumatera,Non e-paylater user,Post Graduate,1996,Working,"Rp 5,000,001 - Rp 7,500,000",21% - 40%,3.75,2.25,1.1666666666666667,4.5,3.0,4.4
+688,Female,Lampung,e-paylater user,Bachelor/Diploma IV,1995,Working,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,4.75,1.0,1.5,3.5,3.0,3.8
+689,Female,South Sumatera,e-paylater user,Until Senior High School,1994,Students,"Less than Rp 1,000,000",21% - 40%,2.75,4.0,4.0,4.0,2.8,2.4
+690,Female,Lampung,Non e-paylater user,"Diploma I, II, III",1999,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.5,1.0,1.6666666666666667,4.25,4.0,3.8
+691,Female,South Sumatera,Non e-paylater user,"Diploma I, II, III",1998,Students,"Less than Rp 1,000,000",Less than 20%,3.0,2.0,3.1666666666666665,4.0,3.0,5.0
+692,Female,Lampung,Non e-paylater user,"Diploma I, II, III",1997,Students,"Less than Rp 1,000,000",Less than 20%,3.75,4.0,3.6666666666666665,3.75,3.2,2.8
+693,Female,West Sumatera,Non e-paylater user,Until Senior High School,2000,Students,"Less than Rp 1,000,000",41% - 60%,3.5,1.0,1.3333333333333333,4.0,2.6,1.8
+694,Female,South Sumatera,Non e-paylater user,Post Graduate,1996,Working,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,2.25,2.0,2.0,3.0,3.4,4.0
+695,Female,Lampung,Non e-paylater user,"Diploma I, II, III",1995,Not Working,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,2.5,1.0,2.0,4.0,4.0,2.8
+696,Female,South Sumatera,Non e-paylater user,Until Senior High School,1994,Students,"Less than Rp 1,000,000",Less than 20%,2.25,1.0,1.0,4.0,4.2,2.6
+697,Female,Lampung,Non e-paylater user,Until Senior High School,1999,Students,"Less than Rp 1,000,000",21% - 40%,2.0,2.0,2.1666666666666665,3.0,3.2,3.4
+698,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2004,Working,"More than Rp 10,000,000",Less than 20%,2.0,4.0,3.8333333333333335,4.0,2.8,2.6
+699,Male,West Sumatera,Non e-paylater user,Until Senior High School,2002,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.25,1.0,1.0,5.0,2.4,3.2
+700,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2002,Entrepreneur,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,3.25,2.0,2.0,3.75,2.8,2.4
+701,Male,West Sumatera,Non e-paylater user,Until Senior High School,2002,Students,"Less than Rp 1,000,000",21% - 40%,2.5,1.0,2.0,3.5,3.0,2.0
+702,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2002,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,3.5,3.0,2.1666666666666665,5.0,3.8,5.0
+703,Male,West Sumatera,Non e-paylater user,Post Graduate,2001,Working,"More than Rp 10,000,000",Less than 20%,2.25,1.0,1.0,3.75,4.0,2.2
+704,Female,West Sumatera,Non e-paylater user,Until Senior High School,2004,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.5,1.0,1.8333333333333333,3.75,2.8,3.2
+705,Female,West Sumatera,e-paylater user,"Diploma I, II, III",2004,Working,"More than Rp 10,000,000",Less than 20%,2.5,1.0,2.1666666666666665,3.75,3.0,4.0
+706,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2001,Working,"More than Rp 10,000,000",21% - 40%,2.25,1.0,1.0,3.0,3.2,3.4
+707,Female,DKI Jakarta,Non e-paylater user,Bachelor/Diploma IV,2003,Entrepreneur,"Rp 5,000,001 - Rp 7,500,000",21% - 40%,2.5,1.0,1.0,5.0,3.2,3.0
+708,Female,West Sumatera,Non e-paylater user,Until Senior High School,2004,Students,"Less than Rp 1,000,000",Less than 20%,3.25,3.0,3.0,4.0,3.2,4.8
+709,Female,West Sumatera,e-paylater user,Until Senior High School,2001,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,3.75,4.0,3.0,4.0,2.4,3.6
+710,Female,West Sumatera,e-paylater user,Bachelor/Diploma IV,2000,Working,"Rp 5,000,001 - Rp 7,500,000",21% - 40%,2.75,3.75,2.3333333333333335,3.75,2.6,5.0
+711,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2003,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,1.75,3.0,2.3333333333333335,3.25,3.4,3.2
+712,Male,West Sumatera,e-paylater user,Bachelor/Diploma IV,2002,Working,"Rp 5,000,001 - Rp 7,500,000",41% - 60%,3.5,4.0,4.666666666666667,3.0,3.2,2.8
+713,Male,Lampung,e-paylater user,Bachelor/Diploma IV,1999,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,4.0,4.25,3.6666666666666665,3.75,3.2,3.4
+714,Male,Lampung,e-paylater user,"Diploma I, II, III",1999,Working,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,3.75,3.75,4.333333333333333,3.75,3.2,3.0
+715,Female,Lampung,Non e-paylater user,Until Senior High School,1999,Students,"Rp 1,000,001 - Rp 2,500,000",41% - 60%,3.75,3.5,3.0,4.25,2.2,2.4
+716,Female,South Sumatera,Non e-paylater user,Bachelor/Diploma IV,1998,Not Working,"Less than Rp 1,000,000",41% - 60%,1.0,1.0,1.0,1.0,3.4,5.0
+717,Female,Lampung,e-paylater user,"Diploma I, II, III",1997,Working,"Rp 5,000,001 - Rp 7,500,000",21% - 40%,3.5,3.75,3.8333333333333335,3.5,3.0,3.6
+718,Male,South Sumatera,e-paylater user,Post Graduate,1996,Entrepreneur,"Rp 2,500,001 - Rp 5,000,000",21% - 40%,2.5,1.0,1.0,2.5,4.0,1.2
+719,Male,Lampung,Non e-paylater user,Post Graduate,1995,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,3.0,2.75,3.0,4.0,4.0,2.6
+720,Female,South Sumatera,Non e-paylater user,Bachelor/Diploma IV,1994,Not Working,"More than Rp 10,000,000",Less than 20%,3.25,1.0,1.0,4.0,3.2,5.0
+721,Female,Lampung,e-paylater user,"Diploma I, II, III",1999,Working,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,3.0,4.0,4.0,4.0,3.0,3.0
+722,Female,South Sumatera,Non e-paylater user,Post Graduate,1998,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,2.0,2.0,2.0,2.5,4.0,2.8
+723,Female,Riau,Non e-paylater user,Until Senior High School,1995,Students,"Less than Rp 1,000,000",Less than 20%,4.0,4.0,4.0,4.25,2.8,5.0
+724,Male,Jambi,e-paylater user,Until Senior High School,1994,Students,"Less than Rp 1,000,000",21% - 40%,1.0,5.0,3.5,4.0,5.0,1.6
+725,Female,Bengkulu,Non e-paylater user,Bachelor/Diploma IV,1993,Not Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,1.75,3.25,3.0,4.0,3.4,2.8
+726,Female,DKI Jakarta,Non e-paylater user,Bachelor/Diploma IV,1992,Students,"Less than Rp 1,000,000",Less than 20%,3.75,3.0,3.0,3.75,3.2,2.4
+727,Female,Riau,Non e-paylater user,Post Graduate,1995,Working,"Rp 2,500,001 - Rp 5,000,000",21% - 40%,3.0,2.0,2.0,3.0,3.6,3.8
+728,Female,Jambi,Non e-paylater user,Bachelor/Diploma IV,1994,Working,"More than Rp 10,000,000",Less than 20%,2.75,2.0,2.0,4.0,3.4,2.0
+729,Female,Bengkulu,Non e-paylater user,Bachelor/Diploma IV,1993,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,3.0,1.0,1.0,5.0,4.4,3.0
+730,Male,DKI Jakarta,e-paylater user,Post Graduate,1992,Working,"More than Rp 10,000,000",Less than 20%,3.0,1.0,2.0,3.0,3.4,3.4
+731,Female,Riau,e-paylater user,Post Graduate,1995,Not Working,"Rp 1,000,001 - Rp 2,500,000",41% - 60%,3.25,2.0,3.3333333333333335,5.0,3.0,4.6
+732,Male,Jambi,Non e-paylater user,Bachelor/Diploma IV,1994,Working,"More than Rp 10,000,000",41% - 60%,2.0,2.0,2.3333333333333335,3.75,2.8,3.0
+733,Male,Bengkulu,e-paylater user,Post Graduate,1993,Entrepreneur,"More than Rp 10,000,000",21% - 40%,3.75,4.5,4.5,4.5,2.8,3.2
+734,Female,DKI Jakarta,Non e-paylater user,Post Graduate,1992,Working,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,3.75,3.0,3.0,4.0,3.8,3.8
+735,Female,Riau,Non e-paylater user,Until Senior High School,1995,Students,"Rp 2,500,001 - Rp 5,000,000",21% - 40%,4.75,3.25,3.6666666666666665,4.0,2.8,3.4
+736,Female,Jambi,Non e-paylater user,Until Senior High School,1994,Students,"Less than Rp 1,000,000",Less than 20%,2.5,3.0,2.8333333333333335,3.25,3.4,3.0
+737,Female,Bengkulu,Non e-paylater user,Bachelor/Diploma IV,1993,Working,"More than Rp 10,000,000",Less than 20%,2.0,1.0,1.0,1.0,4.4,4.0
+738,Female,DKI Jakarta,e-paylater user,Bachelor/Diploma IV,1992,Working,"More than Rp 10,000,000",41% - 60%,3.5,3.25,2.5,4.0,3.2,4.0
+739,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1975,Working,"More than Rp 10,000,000",Less than 20%,2.25,1.0,1.0,2.5,3.6,4.4
+740,Male,West Sumatera,Non e-paylater user,Until Senior High School,2000,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,3.25,3.0,3.0,3.0,2.8,3.0
+741,Female,West Sumatera,e-paylater user,Post Graduate,2002,Entrepreneur,"Rp 7,500,001 - Rp 10,000,000",41% - 60%,4.0,4.25,4.333333333333333,4.0,3.2,2.0
+742,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2004,Working,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,2.75,1.0,2.0,3.75,3.8,3.4
+743,Female,West Sumatera,e-paylater user,"Diploma I, II, III",2000,Working,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,2.75,3.75,3.0,3.0,3.4,4.2
+744,Male,West Sumatera,Non e-paylater user,Until Senior High School,2004,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.5,2.0,1.1666666666666667,3.25,3.6,2.4
+745,Female,West Sumatera,Non e-paylater user,Post Graduate,2002,Working,"More than Rp 10,000,000",Less than 20%,1.75,1.0,1.6666666666666667,3.75,4.8,4.2
+746,Female,Kepulauan Riau,Non e-paylater user,"Diploma I, II, III",2002,Working,"Less than Rp 1,000,000",Less than 20%,2.75,1.0,1.0,4.75,2.2,3.4
+747,Male,West Sumatera,Non e-paylater user,Post Graduate,2002,Working,"More than Rp 10,000,000",Less than 20%,3.0,3.5,2.8333333333333335,3.5,4.6,3.6
+748,Male,West Sumatera,Non e-paylater user,Until Senior High School,2001,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.0,2.0,2.0,3.75,3.6,4.6
+749,Male,West Sumatera,Non e-paylater user,Until Senior High School,2002,Students,"Less than Rp 1,000,000",21% - 40%,3.75,3.0,3.1666666666666665,3.25,3.0,4.4
+750,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2001,Students,"Less than Rp 1,000,000",Less than 20%,2.75,1.0,1.0,2.0,2.8,2.8
+751,Male,West Sumatera,Non e-paylater user,Until Senior High School,2002,Students,"Less than Rp 1,000,000",More than 100%,2.0,1.0,1.0,2.5,2.6,4.2
+752,Female,West Sumatera,Non e-paylater user,Until Senior High School,2001,Students,"Less than Rp 1,000,000",Less than 20%,1.75,3.75,3.1666666666666665,3.25,3.2,4.4
+753,Male,West Sumatera,Non e-paylater user,Until Senior High School,2002,Students,"More than Rp 10,000,000",Less than 20%,1.75,2.25,1.6666666666666667,1.75,3.2,3.8
+754,Female,West Sumatera,Non e-paylater user,Until Senior High School,2001,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.75,3.5,2.8333333333333335,3.5,3.4,2.6
+755,Male,West Sumatera,e-paylater user,Bachelor/Diploma IV,2001,Students,"Less than Rp 1,000,000",21% - 40%,1.75,4.0,2.1666666666666665,1.75,2.4,3.8
+756,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2002,Working,"Rp 5,000,001 - Rp 7,500,000",21% - 40%,2.5,3.25,2.1666666666666665,3.0,3.8,2.0
+757,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2000,Working,"Rp 5,000,001 - Rp 7,500,000",More than 100%,2.0,1.0,4.0,2.0,5.0,2.6
+758,Male,West Sumatera,Non e-paylater user,"Diploma I, II, III",2002,Students,"Less than Rp 1,000,000",21% - 40%,3.0,3.0,2.6666666666666665,2.5,3.4,3.2
+759,Male,West Sumatera,e-paylater user,Until Senior High School,2002,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.25,3.0,2.3333333333333335,2.5,3.0,3.2
+760,Female,West Sumatera,Non e-paylater user,Until Senior High School,2003,Students,"Less than Rp 1,000,000",Less than 20%,4.25,2.0,3.0,3.0,2.6,3.6
+761,Female,West Sumatera,Non e-paylater user,Until Senior High School,2003,Students,"Less than Rp 1,000,000",21% - 40%,3.5,4.0,3.1666666666666665,3.5,3.0,2.4
+762,Male,West Sumatera,Non e-paylater user,Until Senior High School,2004,Students,"Less than Rp 1,000,000",Less than 20%,2.75,1.0,1.0,3.5,3.8,2.0
+763,Female,West Sumatera,Non e-paylater user,Until Senior High School,2003,Students,"Less than Rp 1,000,000",Less than 20%,1.75,2.0,1.0,3.0,3.0,4.6
+764,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2003,Not Working,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,3.75,3.5,3.3333333333333335,4.0,3.4,2.6
+765,Female,West Sumatera,Non e-paylater user,Until Senior High School,2003,Students,"Less than Rp 1,000,000",Less than 20%,2.25,2.0,2.6666666666666665,3.0,3.8,4.6
+766,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2003,Working,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,3.25,1.0,1.0,3.75,2.4,5.0
+767,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2003,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.0,2.0,2.0,3.0,3.2,1.6
+768,Male,West Sumatera,Non e-paylater user,Post Graduate,2004,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.5,1.0,2.3333333333333335,1.75,4.0,2.0
+769,Male,West Sumatera,Non e-paylater user,Until Senior High School,2002,Working,"Rp 5,000,001 - Rp 7,500,000",Less than 20%,2.5,2.0,2.1666666666666665,3.0,3.8,4.4
+770,Male,West Sumatera,Non e-paylater user,Until Senior High School,2003,Students,"Less than Rp 1,000,000",Less than 20%,3.5,3.75,3.1666666666666665,3.0,2.6,3.4
+771,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2002,Not Working,"Less than Rp 1,000,000",Less than 20%,2.25,1.0,1.0,2.25,4.0,4.2
+772,Male,Riau,Non e-paylater user,Until Senior High School,2003,Entrepreneur,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.75,3.0,2.0,3.0,3.0,3.0
+773,Female,West Sumatera,Non e-paylater user,Until Senior High School,1977,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,3.0,2.25,1.0,2.0,4.4,4.4
+774,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2001,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,3.25,2.0,3.3333333333333335,3.0,2.8,4.0
+775,Male,West Sumatera,e-paylater user,Until Senior High School,2004,Students,"More than Rp 10,000,000",21% - 40%,1.0,1.25,1.0,1.0,3.4,3.0
+776,Female,West Sumatera,Non e-paylater user,Post Graduate,2002,Working,"More than Rp 10,000,000",Less than 20%,4.5,2.0,1.0,2.0,4.6,3.0
+777,Male,DKI Jakarta,Non e-paylater user,Post Graduate,2003,Working,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,4.25,2.0,1.0,3.0,3.8,2.8
+778,Male,West Sumatera,e-paylater user,Bachelor/Diploma IV,2003,Working,"More than Rp 10,000,000",Less than 20%,2.5,4.0,4.0,4.0,2.8,5.0
+779,Male,West Sumatera,Non e-paylater user,Until Senior High School,2000,Students,"Less than Rp 1,000,000",Less than 20%,4.0,2.0,4.0,4.0,2.8,3.8
+780,Female,West Sumatera,Non e-paylater user,Until Senior High School,2004,Students,"Less than Rp 1,000,000",Less than 20%,1.5,3.25,3.0,4.0,3.0,3.8
+781,Female,West Java,Non e-paylater user,Bachelor/Diploma IV,2001,Not Working,"Less than Rp 1,000,000",Less than 20%,2.25,3.25,2.0,4.0,3.0,4.4
+782,Male,Kepulauan Riau,e-paylater user,Until Senior High School,2000,Students,"Less than Rp 1,000,000",21% - 40%,3.5,2.0,2.0,2.5,4.2,3.6
+783,Male,South Sumatera,Non e-paylater user,Until Senior High School,2002,Students,"Less than Rp 1,000,000",Less than 20%,3.75,3.0,4.0,4.0,2.8,4.0
+784,Female,West Sumatera,e-paylater user,Bachelor/Diploma IV,2004,Working,"More than Rp 10,000,000",Less than 20%,1.75,3.0,3.0,3.0,2.8,3.2
+785,Male,West Sumatera,Non e-paylater user,Post Graduate,2003,Entrepreneur,"Rp 1,000,001 - Rp 2,500,000",More than 100%,1.0,1.0,2.0,2.0,4.0,3.8
+786,Male,West Sumatera,e-paylater user,Until Senior High School,2001,Students,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,4.25,4.0,3.8333333333333335,3.25,2.6,3.8
+787,Female,Riau,Non e-paylater user,Until Senior High School,2001,Students,"Less than Rp 1,000,000",61% - 80%,2.5,1.75,2.6666666666666665,3.5,2.8,4.4
+788,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2002,Entrepreneur,"Less than Rp 1,000,000",Less than 20%,1.0,1.0,1.0,1.0,3.6,3.0
+789,Female,West Sumatera,Non e-paylater user,Until Senior High School,2002,Students,"Less than Rp 1,000,000",Less than 20%,3.75,2.0,3.0,3.0,3.6,3.8
+790,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1980,Students,"Less than Rp 1,000,000",Less than 20%,3.5,3.0,3.0,3.0,3.0,4.0
+791,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2002,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,2.0,1.0,1.0,1.0,3.2,3.8
+792,Female,West Sumatera,Non e-paylater user,Post Graduate,2003,Working,"Rp 7,500,001 - Rp 10,000,000",Less than 20%,2.0,1.0,2.0,2.0,4.2,4.0
+793,Female,West Sumatera,Non e-paylater user,Until Senior High School,2003,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.75,3.0,4.0,4.0,2.8,2.6
+794,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2003,Students,"Less than Rp 1,000,000",Less than 20%,2.0,2.0,3.0,3.0,3.0,3.6
+795,Female,West Sumatera,Non e-paylater user,Until Senior High School,2003,Students,"Less than Rp 1,000,000",Less than 20%,2.75,2.0,2.0,3.0,2.8,3.2
+796,Female,West Sumatera,e-paylater user,Until Senior High School,2000,Students,"Less than Rp 1,000,000",41% - 60%,2.0,2.5,2.8333333333333335,2.25,3.4,3.0
+797,Female,West Sumatera,Non e-paylater user,Until Senior High School,2002,Students,"Less than Rp 1,000,000",Less than 20%,1.25,4.0,2.1666666666666665,3.0,3.4,3.2
+798,Female,West Sumatera,Non e-paylater user,Post Graduate,2001,Students,"Less than Rp 1,000,000",41% - 60%,1.0,1.0,1.0,3.0,3.0,4.4
+799,Female,West Sumatera,Non e-paylater user,Until Senior High School,2002,Students,"Less than Rp 1,000,000",Less than 20%,3.75,1.0,1.0,2.0,3.2,3.4
+800,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2002,Working,"Less than Rp 1,000,000",21% - 40%,3.0,2.0,2.0,2.5,3.2,3.0
+801,Female,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2003,Working,"Rp 2,500,001 - Rp 5,000,000",Less than 20%,3.5,3.0,4.0,3.0,3.2,3.0
+802,Female,West Sumatera,e-paylater user,Until Senior High School,2001,Students,"Less than Rp 1,000,000",Less than 20%,1.75,2.75,2.3333333333333335,2.5,3.6,3.2
+803,Male,West Sumatera,Non e-paylater user,Until Senior High School,2004,Students,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,3.75,2.5,2.0,2.0,3.2,2.2
+804,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2003,Not Working,"Less than Rp 1,000,000",21% - 40%,3.5,1.0,3.0,3.0,3.4,3.8
+805,Female,West Sumatera,e-paylater user,Until Senior High School,2003,Students,"Rp 1,000,001 - Rp 2,500,000",41% - 60%,3.75,1.0,1.6666666666666667,2.75,3.2,3.8
+806,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,1989,Students,"Less than Rp 1,000,000",Less than 20%,3.5,4.0,3.0,2.75,3.8,3.2
+807,Male,West Sumatera,Non e-paylater user,Bachelor/Diploma IV,2003,Students,"Less than Rp 1,000,000",Less than 20%,3.25,4.0,3.6666666666666665,3.0,3.0,2.4
+808,Female,West Sumatera,Non e-paylater user,"Diploma I, II, III",2002,Entrepreneur,"Rp 1,000,001 - Rp 2,500,000",Less than 20%,2.25,2.0,3.1666666666666665,4.0,3.0,2.8
+809,Female,West Sumatera,Non e-paylater user,Until Senior High School,2003,Students,"Less than Rp 1,000,000",Less than 20%,2.0,4.0,4.0,3.75,4.0,4.2
+810,Female,West Sumatera,Non e-paylater user,Until Senior High School,2001,Students,"Less than Rp 1,000,000",Less than 20%,2.75,1.0,1.8333333333333333,3.0,3.2,4.4
