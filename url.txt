@@ -1,2 +1,3 @@
 URL Dataset Origin: https://data.mendeley.com/datasets/wkjdmrmrg4/4
 URL Deployment : https://huggingface.co/spaces/ymo980/spendwise
+URL Slides : https://docs.google.com/presentation/d/1J0BZMyvWRG-aoRbEDTepu5rjNKW7fbWDFYkhwFvP2S8/edit#slide=id.g31662ec6fe7_0_66
